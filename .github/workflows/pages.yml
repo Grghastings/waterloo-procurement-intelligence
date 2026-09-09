@@ -31,6 +31,9 @@ jobs:
       - name: Configure Pages
         uses: actions/configure-pages@v5
 
+      - name: Copy procurement data into site
+        run: cp data/opportunities.json app/data-opportunities.json
+
       - name: Upload site
         uses: actions/upload-pages-artifact@v4
         with:
