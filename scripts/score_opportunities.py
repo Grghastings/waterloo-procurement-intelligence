@@ -4,45 +4,60 @@ from pathlib import Path
 
 P = Path(__file__).parents[1] / "data/opportunities.json"
 
-# Direct buying signals carry the most weight. Indirect signals are useful
-# because agencies often buy equipment/facilities before they buy training.
+# Direct signals indicate that the buyer is explicitly looking for SWAT,
+# tactical, special-operations, or closely related training.
 DIRECT = {
-    "swat": 30,
-    "special weapons and tactics": 30,
-    "tactical training": 26,
-    "police training": 22,
-    "law enforcement training": 22,
-    "hostage rescue": 22,
-    "active shooter training": 22,
-    "breaching": 18,
-    "force on force": 18,
-    "simunition": 18,
-    "scenario based training": 16,
-    "scenario-based training": 16,
+    "swat": 35,
+    "special weapons and tactics": 35,
+    "swat training": 35,
+    "swat instructor": 30,
+    "tactical team training": 30,
+    "tactical training": 28,
+    "special operations training": 26,
+    "hostage rescue": 25,
+    "cqb": 24,
+    "close quarters combat": 24,
+    "breaching training": 22,
+    "breacher training": 22,
+    "active shooter training": 20,
+    "force on force": 20,
+    "force-on-force": 20,
+    "simunition": 20,
+    "utm training": 20,
+    "scenario based training": 18,
+    "scenario-based training": 18,
 }
+
 INDIRECT = {
-    "tactical medical": 12,
-    "tactical medicine": 12,
-    "firearms training": 12,
-    "firearms instructor": 10,
-    "shoot house": 14,
-    "shooting house": 14,
-    "kill house": 14,
+    "tactical firearms": 14,
+    "firearms training": 14,
+    "firearms instructor": 12,
+    "tactical medical": 14,
+    "tactical medicine": 14,
+    "shoot house": 16,
+    "shooting house": 16,
+    "kill house": 16,
+    "tactical training facility": 15,
+    "swat facility": 18,
     "training facility": 8,
-    "training tower": 10,
+    "training tower": 12,
+    "tactical training tower": 15,
     "range training": 8,
-    "crisis response": 8,
-    "critical incident": 8,
-    "special operations": 12,
-    "tactical": 7,
-    "police": 5,
-    "law enforcement": 5,
+    "crisis response training": 10,
+    "special operations": 10,
+    "law enforcement instructor": 8,
+    "police training": 8,
+    "law enforcement training": 8,
+    "tactical": 6,
+    "police": 4,
+    "law enforcement": 4,
 }
+
 BUYING_SIGNAL = {
     "request for proposals": 8,
     "request for quotation": 7,
     "solicitation": 6,
-    "sources sought": 5,
+    "sources sought": 6,
     "request for information": 5,
     "presolicitation": 4,
 }
@@ -62,6 +77,7 @@ def main():
             x.get("office"),
             x.get("notice_type"),
             x.get("naics"),
+            " ".join(x.get("sam_queries", [])),
         ]
         t = clean(" ".join(map(str, fields)))
 
@@ -69,13 +85,20 @@ def main():
         indirect_hits = [(term, pts) for term, pts in INDIRECT.items() if term in t]
         buying_hits = [(term, pts) for term, pts in BUYING_SIGNAL.items() if term in t]
 
-        score = min(100, sum(p for _, p in direct_hits) + min(25, sum(p for _, p in indirect_hits)) + min(15, sum(p for _, p in buying_hits)))
+        score = min(
+            100,
+            sum(p for _, p in direct_hits)
+            + min(30, sum(p for _, p in indirect_hits))
+            + min(15, sum(p for _, p in buying_hits)),
+        )
 
-        # A federal SAM opportunity is more valuable when the title/description
-        # contains a concrete training signal than when it merely says police.
         if any(term in t for term in ("training", "instruction", "course", "exercise")):
             score += 8
-        if any(term in t for term in ("county police", "city police", "police department", "sheriff", "sheriff's office", "state police")):
+
+        if any(term in t for term in (
+            "county police", "city police", "police department", "sheriff",
+            "sheriff's office", "state police", "highway patrol", "law enforcement"
+        )):
             score += 8
 
         score = min(100, score)
