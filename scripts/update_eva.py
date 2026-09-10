@@ -8,14 +8,12 @@ import requests
 OUT = Path(__file__).parents[1] / "data/opportunities.json"
 URL = "https://mvendor.cgieva.com/Vendor/public/AllOpportunities.jsp"
 
-# eVA is Virginia's statewide procurement marketplace and is used by many
-# Virginia local governments as well as state agencies.
 KEYWORDS = [
     "swat", "tactical training", "tactical team", "special operations",
     "hostage rescue", "breaching", "force on force", "simunition",
     "active shooter", "scenario based", "scenario-based", "shoot house",
     "firearms training", "police training", "law enforcement training",
-    "tactical medical", "tactical medicine", "cq b", "close quarters",
+    "tactical medical", "tactical medicine", "cqb", "close quarters",
 ]
 
 
@@ -59,7 +57,9 @@ def main():
     parser = LinkParser()
     parser.feed(response.text)
 
+    # Remove the obsolete World Bank feed. Preserve SAM and Virginia eVA rows.
     rows = json.loads(OUT.read_text()) if OUT.exists() else []
+    rows = [x for x in rows if x.get("source") in ("SAM.gov", "Virginia eVA")]
     existing = {x.get("source_id") for x in rows}
     added = 0
 
