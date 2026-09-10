@@ -8,21 +8,48 @@ import requests
 OUT = Path(__file__).parents[1] / "data/opportunities.json"
 URL = "https://api.sam.gov/opportunities/v2/search"
 
-# Search terms are deliberately broad enough to catch the early buying signals,
-# while the scoring script decides how strongly each notice fits the SWAT market.
+# Search separately for high-confidence SWAT/tactical terms and adjacent
+# training signals. SAM searches federal contract opportunities, so this is
+# deliberately broader than just the word SWAT.
 QUERIES = [
+    # Direct SWAT / special operations
     "SWAT",
+    "SWAT training",
+    "SWAT instructor",
     "special weapons and tactics",
+    "special operations training",
+    "tactical team training",
     "tactical training",
+    "hostage rescue",
+    "CQB",
+    "close quarters combat",
+    "breaching training",
+    "breacher training",
+    # Tactical training methods
+    "force on force",
+    "force-on-force",
+    "Simunition",
+    "UTM training",
+    "scenario based training",
+    "scenario-based training",
+    "tactical firearms",
+    "firearms instructor",
+    "tactical medical",
+    "tactical medicine",
+    "active shooter training",
+    "crisis response training",
+    # Facilities / precursor buying signals
+    "SWAT facility",
+    "tactical training facility",
+    "shoot house",
+    "shooting house",
+    "kill house",
+    "tactical training tower",
+    "training tower",
+    # Broader law-enforcement training terms
     "police training",
     "law enforcement training",
-    "hostage rescue",
-    "active shooter training",
-    "breaching",
-    "force on force",
-    "Simunition",
-    "scenario based training",
-    "tactical medical",
+    "law enforcement instructor",
 ]
 
 
@@ -106,38 +133,51 @@ def main():
     if not api_key:
         raise RuntimeError("SAM_API_KEY is not set. Add it as a GitHub Actions secret named SAM_API_KEY.")
 
-    # Stay comfortably inside the public API's normal date-query format and
-    # collect a rolling 45-day window. The scoring layer handles relevance.
     end = datetime.now(timezone.utc).date()
-    start = end - timedelta(days=45)
+    start = end - timedelta(days=90)
     posted_from = start.strftime("%m/%d/%Y")
     posted_to = end.strftime("%m/%d/%Y")
 
     records = {}
     for query in QUERIES:
-        params = {
-            "api_key": api_key,
-            "q": query,
-            "postedFrom": posted_from,
-            "postedTo": posted_to,
-            "limit": 100,
-            "offset": 0,
-        }
-        response = requests.get(URL, params=params, timeout=60)
-        response.raise_for_status()
-        for item in extract_records(response.json()):
-            row = normalize(item)
-            if not row["source_id"]:
-                continue
-            row["sam_query"] = query
-            records[row["source_id"]] = {**records.get(row["source_id"], {}), **row}
+        offset = 0
+        while True:
+            params = {
+                "api_key": api_key,
+                "q": query,
+                "postedFrom": posted_from,
+                "postedTo": posted_to,
+                "limit": 100,
+                "offset": offset,
+            }
+            response = requests.get(URL, params=params, timeout=60)
+            response.raise_for_status()
+            payload = response.json()
+            items = extract_records(payload)
+            if not items:
+                break
 
-    # Keep any records from previous runs that are not SAM.gov only if the
-    # collector has not yet replaced the old dataset. Once this runs, the
-    # dataset becomes the tactical/SAM dataset by design.
+            for item in items:
+                row = normalize(item)
+                if not row["source_id"]:
+                    continue
+                existing = records.get(row["source_id"])
+                if existing:
+                    queries = set(existing.get("sam_queries", []))
+                    queries.add(query)
+                    existing["sam_queries"] = sorted(queries)
+                    records[row["source_id"]] = existing
+                else:
+                    row["sam_queries"] = [query]
+                    records[row["source_id"]] = row
+
+            if len(items) < 100:
+                break
+            offset += 100
+
     OUT.parent.mkdir(parents=True, exist_ok=True)
     OUT.write_text(json.dumps(list(records.values()), indent=2, ensure_ascii=False))
-    print(f"SAM.gov tactical opportunities: {len(records)}")
+    print(f"SAM.gov SWAT/tactical opportunities: {len(records)}")
 
 
 if __name__ == "__main__":
