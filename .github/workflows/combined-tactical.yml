@@ -1,0 +1,45 @@
+name: Combined Tactical Procurement Update
+
+on:
+  schedule:
+    - cron: "55 10 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+env:
+  SAM_API_KEY: ${{ secrets.SAM_API_KEY }}
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v5
+
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Collect SAM.gov tactical opportunities
+        run: python scripts/update_sam.py
+
+      - name: Collect Virginia eVA tactical opportunities
+        run: python scripts/update_eva.py
+        continue-on-error: true
+
+      - name: Score tactical opportunities
+        run: python scripts/score_opportunities.py
+
+      - name: Commit updated data
+        run: |
+          git config user.name "Waterloo Procurement Bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/opportunities.json
+          git diff --cached --quiet || git commit -m "Update federal and Virginia tactical opportunities"
+          git push
