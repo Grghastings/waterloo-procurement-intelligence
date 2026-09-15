@@ -33,12 +33,18 @@ def extract_records(payload):
     return value if isinstance(value, list) else []
 
 
-def normalize(item):
+def normalize(item, today):
     notice_id = first(item.get("noticeId"), item.get("solicitationNumber"), item.get("id"))
     notice_type = text(first(item.get("type"), item.get("baseType"), "Procurement notice"))
+    deadline = iso_date(first(item.get("responseDeadLine"), item.get("responseDeadline")))
+    active = text(item.get("active")).casefold()
     if not notice_id or notice_type.casefold() in {
         "award notice", "justification", "sale of surplus property"
     }:
+        return None
+    if active in {"no", "false", "inactive", "archived"}:
+        return None
+    if deadline and deadline < today.isoformat():
         return None
     poc = item.get("pointOfContact") or []
     if isinstance(poc, dict):
@@ -68,7 +74,7 @@ def normalize(item):
         "notice_type": notice_type,
         "naics": text(item.get("naicsCode")),
         "solicitation_number": text(item.get("solicitationNumber")),
-        "deadline": iso_date(first(item.get("responseDeadLine"), item.get("responseDeadline"))),
+        "deadline": deadline,
         "published": iso_date(item.get("postedDate")),
         "contacts": contacts,
         "description": "",
@@ -81,8 +87,6 @@ def fetch_sam(api_key, today):
         "api_key": api_key,
         "postedFrom": (today - timedelta(days=90)).strftime("%m/%d/%Y"),
         "postedTo": today.strftime("%m/%d/%Y"),
-        "rdlfrom": today.strftime("%m/%d/%Y"),
-        "rdlto": (today + timedelta(days=365)).strftime("%m/%d/%Y"),
         "limit": PAGE_SIZE,
     }
     records = {}
@@ -97,7 +101,7 @@ def fetch_sam(api_key, today):
         if not items:
             break
         for item in items:
-            row = normalize(item)
+            row = normalize(item, today)
             if row:
                 records[row["source_id"]] = row
         total = int(payload.get("totalRecords") or len(records))
