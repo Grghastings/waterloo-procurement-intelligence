@@ -1,6 +1,13 @@
 name: Combined Tactical Procurement Update
 
 on:
+  push:
+    branches: [main]
+    paths:
+      - "scripts/update_sam.py"
+      - "scripts/update_world_bank.py"
+      - "scripts/score_opportunities.py"
+      - ".github/workflows/combined-tactical.yml"
   schedule:
     - cron: "55 10 * * *"
   workflow_dispatch:
@@ -29,9 +36,8 @@ jobs:
       - name: Collect SAM.gov tactical opportunities
         run: python scripts/update_sam.py
 
-      - name: Collect Virginia eVA tactical opportunities
-        run: python scripts/update_eva.py
-        continue-on-error: true
+      - name: Collect World Bank opportunities
+        run: python scripts/update_world_bank.py
 
       - name: Score tactical opportunities
         run: python scripts/score_opportunities.py
@@ -41,5 +47,5 @@ jobs:
           git config user.name "Waterloo Procurement Bot"
           git config user.email "actions@users.noreply.github.com"
           git add data/opportunities.json
-          git diff --cached --quiet || git commit -m "Update federal and Virginia tactical opportunities"
+          git diff --cached --quiet || git commit -m "Update SAM.gov and World Bank opportunities"
           git push

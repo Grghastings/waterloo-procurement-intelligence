@@ -2,7 +2,7 @@
 
 A lightweight procurement-intelligence MVP focused on U.S. police, SWAT, special operations, and law-enforcement training opportunities.
 
-The collector uses the public SAM.gov Get Opportunities API; the scoring layer ranks notices for tactical-training relevance.
+The collectors use the SAM.gov Get Opportunities API and the World Bank Procurement Notice dataset; the scoring layer ranks notices for tactical-training relevance.
 
 ## Run locally
 

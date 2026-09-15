@@ -7,50 +7,8 @@ import requests
 
 OUT = Path(__file__).parents[1] / "data/opportunities.json"
 URL = "https://api.sam.gov/opportunities/v2/search"
-
-# Search separately for high-confidence SWAT/tactical terms and adjacent
-# training signals. SAM searches federal contract opportunities, so this is
-# deliberately broader than just the word SWAT.
-QUERIES = [
-    # Direct SWAT / special operations
-    "SWAT",
-    "SWAT training",
-    "SWAT instructor",
-    "special weapons and tactics",
-    "special operations training",
-    "tactical team training",
-    "tactical training",
-    "hostage rescue",
-    "CQB",
-    "close quarters combat",
-    "breaching training",
-    "breacher training",
-    # Tactical training methods
-    "force on force",
-    "force-on-force",
-    "Simunition",
-    "UTM training",
-    "scenario based training",
-    "scenario-based training",
-    "tactical firearms",
-    "firearms instructor",
-    "tactical medical",
-    "tactical medicine",
-    "active shooter training",
-    "crisis response training",
-    # Facilities / precursor buying signals
-    "SWAT facility",
-    "tactical training facility",
-    "shoot house",
-    "shooting house",
-    "kill house",
-    "tactical training tower",
-    "training tower",
-    # Broader law-enforcement training terms
-    "police training",
-    "law enforcement training",
-    "law enforcement instructor",
-]
+PAGE_SIZE = 1000
+MAX_PAGES = 25
 
 
 def text(value):
@@ -62,122 +20,104 @@ def text(value):
 
 
 def first(*values):
-    for value in values:
-        if value not in (None, "", []):
-            return value
-    return ""
+    return next((value for value in values if value not in (None, "", [])), "")
+
+
+def iso_date(value):
+    value = text(value).strip()
+    return value[:10] if len(value) >= 10 else value
 
 
 def extract_records(payload):
-    for key in ("opportunitiesData", "opportunities", "results", "documents"):
-        value = payload.get(key) if isinstance(payload, dict) else None
-        if isinstance(value, list):
-            return value
-        if isinstance(value, dict):
-            for nested in ("opportunity", "items", "data"):
-                if isinstance(value.get(nested), list):
-                    return value[nested]
-    return []
+    value = payload.get("opportunitiesData", []) if isinstance(payload, dict) else []
+    return value if isinstance(value, list) else []
 
 
 def normalize(item):
-    poc = item.get("pointOfContact") or item.get("pointOfContactList") or []
+    notice_id = first(item.get("noticeId"), item.get("solicitationNumber"), item.get("id"))
+    notice_type = text(first(item.get("type"), item.get("baseType"), "Procurement notice"))
+    if not notice_id or notice_type.casefold() in {
+        "award notice", "justification", "sale of surplus property"
+    }:
+        return None
+    poc = item.get("pointOfContact") or []
     if isinstance(poc, dict):
         poc = [poc]
     contacts = []
-    for p in poc[:5]:
-        name = first(p.get("fullName"), p.get("name"))
-        email = first(p.get("email"), p.get("emailAddress"))
-        phone = first(p.get("phone"), p.get("phoneNumber"))
-        if name or email or phone:
-            contacts.append({"name": name, "email": email, "phone": phone})
-
-    org = first(
-        item.get("organizationType"),
-        item.get("organization"),
-        item.get("department"),
-        item.get("agencyName"),
-    )
-    office = first(item.get("subTier"), item.get("office"), item.get("contractingOfficeName"))
-    title = first(item.get("title"), item.get("solicitationTitle"), item.get("description"), "SAM.gov opportunity")
-    notice_id = first(item.get("noticeId"), item.get("solicitationNumber"), item.get("id"))
-    url = first(
-        item.get("uiLink"),
-        item.get("link"),
-        item.get("url"),
-        f"https://sam.gov/opp/{notice_id}/view" if notice_id else "https://sam.gov/content/opportunities",
-    )
-
+    for person in poc[:5]:
+        contact = {
+            "name": first(person.get("fullName"), person.get("name")),
+            "email": first(person.get("email"), person.get("emailAddress")),
+            "phone": first(person.get("phone"), person.get("phoneNumber")),
+        }
+        if any(contact.values()):
+            contacts.append(contact)
+    performance = item.get("placeOfPerformance") or {}
+    state = performance.get("state") if isinstance(performance, dict) else ""
+    if isinstance(state, dict):
+        state = first(state.get("name"), state.get("code"))
+    title = first(item.get("title"), item.get("solicitationTitle"), "SAM.gov opportunity")
     return {
         "source": "SAM.gov",
         "source_id": text(notice_id),
         "title": text(title),
-        "organization": text(org),
-        "office": text(office),
+        "organization": text(first(item.get("fullParentPathName"), item.get("department"), "U.S. government")),
+        "office": text(first(item.get("subTier"), item.get("office"))),
         "country": "United States",
-        "state": text(first(item.get("placeOfPerformance"), item.get("state"), item.get("placeOfPerformanceState"))),
-        "notice_type": text(first(item.get("type"), item.get("noticeType"), item.get("baseType"))),
-        "naics": text(first(item.get("naicsCode"), item.get("naics"))),
-        "solicitation_number": text(first(item.get("solicitationNumber"), item.get("solicitationId"))),
-        "deadline": text(first(item.get("responseDeadLine"), item.get("responseDeadline"), item.get("deadline"))),
-        "published": text(first(item.get("postedDate"), item.get("publicationDate"), item.get("modifiedDate"))),
+        "state": text(state),
+        "notice_type": notice_type,
+        "naics": text(item.get("naicsCode")),
+        "solicitation_number": text(item.get("solicitationNumber")),
+        "deadline": iso_date(first(item.get("responseDeadLine"), item.get("responseDeadline"))),
+        "published": iso_date(item.get("postedDate")),
         "contacts": contacts,
-        "description": text(first(item.get("description"), item.get("additionalInfo"))),
-        "url": text(url),
-        "sam_query": "",
+        "description": "",
+        "url": text(first(item.get("uiLink"), f"https://sam.gov/opp/{notice_id}/view")),
     }
 
 
-def main():
-    api_key = os.environ.get("SAM_API_KEY")
-    if not api_key:
-        raise RuntimeError("SAM_API_KEY is not set. Add it as a GitHub Actions secret named SAM_API_KEY.")
-
-    end = datetime.now(timezone.utc).date()
-    start = end - timedelta(days=90)
-    posted_from = start.strftime("%m/%d/%Y")
-    posted_to = end.strftime("%m/%d/%Y")
-
+def fetch_sam(api_key, today):
+    params = {
+        "api_key": api_key,
+        "postedFrom": (today - timedelta(days=90)).strftime("%m/%d/%Y"),
+        "postedTo": today.strftime("%m/%d/%Y"),
+        "rdlfrom": today.strftime("%m/%d/%Y"),
+        "rdlto": (today + timedelta(days=365)).strftime("%m/%d/%Y"),
+        "limit": PAGE_SIZE,
+    }
     records = {}
-    for query in QUERIES:
-        offset = 0
-        while True:
-            params = {
-                "api_key": api_key,
-                "q": query,
-                "postedFrom": posted_from,
-                "postedTo": posted_to,
-                "limit": 100,
-                "offset": offset,
-            }
-            response = requests.get(URL, params=params, timeout=60)
-            response.raise_for_status()
-            payload = response.json()
-            items = extract_records(payload)
-            if not items:
-                break
+    offset = 0
+    for _ in range(MAX_PAGES):
+        response = requests.get(URL, params={**params, "offset": offset}, timeout=90)
+        if response.status_code == 404:
+            break
+        response.raise_for_status()
+        payload = response.json()
+        items = extract_records(payload)
+        if not items:
+            break
+        for item in items:
+            row = normalize(item)
+            if row:
+                records[row["source_id"]] = row
+        total = int(payload.get("totalRecords") or len(records))
+        offset += len(items)
+        if len(items) < PAGE_SIZE or offset >= total:
+            break
+    return list(records.values())
 
-            for item in items:
-                row = normalize(item)
-                if not row["source_id"]:
-                    continue
-                existing = records.get(row["source_id"])
-                if existing:
-                    queries = set(existing.get("sam_queries", []))
-                    queries.add(query)
-                    existing["sam_queries"] = sorted(queries)
-                    records[row["source_id"]] = existing
-                else:
-                    row["sam_queries"] = [query]
-                    records[row["source_id"]] = row
 
-            if len(items) < 100:
-                break
-            offset += 100
-
+def main():
+    api_key = os.environ.get("SAM_API_KEY", "").strip()
+    if not api_key:
+        raise RuntimeError("SAM_API_KEY is not set in this repository's Actions secrets.")
+    today = datetime.now(timezone.utc).date()
+    sam_rows = fetch_sam(api_key, today)
+    existing = json.loads(OUT.read_text()) if OUT.exists() else []
+    combined = [row for row in existing if row.get("source") != "SAM.gov"] + sam_rows
     OUT.parent.mkdir(parents=True, exist_ok=True)
-    OUT.write_text(json.dumps(list(records.values()), indent=2, ensure_ascii=False))
-    print(f"SAM.gov SWAT/tactical opportunities: {len(records)}")
+    OUT.write_text(json.dumps(combined, indent=2, ensure_ascii=False) + "\n")
+    print(f"SAM.gov open opportunities: {len(sam_rows)}")
 
 
 if __name__ == "__main__":
