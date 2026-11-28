@@ -31,94 +31,6 @@
     "fit_reason": "Related: law enforcement; Buying signal: solicitation"
   },
   {
-    "source": "SAM.gov",
-    "source_id": "b8b927e49b424f9eaa40119f3f0ca523",
-    "title": "19BC4027Q0020 - Supply, Delivery, Installation and Commissioning of One Indoor Direct-View LED Video Wall, International Law Enforcement Academy (ILEA), Otse",
-    "organization": "STATE, DEPARTMENT OF.STATE, DEPARTMENT OF.US EMBASSY GABORONE",
-    "office": "",
-    "country": "United States",
-    "state": "",
-    "notice_type": "Solicitation",
-    "naics": "51211",
-    "solicitation_number": "19BC4027Q0020 ",
-    "deadline": "2026-12-18",
-    "published": "2026-11-25",
-    "contacts": [
-      {
-        "name": "Leonard Thebe",
-        "email": "Thebel@state.gov",
-        "phone": "2673732356"
-      },
-      {
-        "name": "Brett Rose",
-        "email": "rosebc@state.gov",
-        "phone": "2673732356"
-      }
-    ],
-    "description": "",
-    "url": "https://sam.gov/workspace/contract/opp/b8b927e49b424f9eaa40119f3f0ca523/view",
-    "score": 18,
-    "recommendation": "PASS",
-    "fit_reason": "Related: law enforcement; Buying signal: solicitation"
-  },
-  {
-    "source": "SAM.gov",
-    "source_id": "bce7e5be62104b6a81fbc976b30c8312",
-    "title": "MC-130P Aircraft Restoration",
-    "organization": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE SPECIAL OPERATIONS COMMAND.FA4417 1 SOCONS",
-    "office": "",
-    "country": "United States",
-    "state": "",
-    "notice_type": "Combined Synopsis/Solicitation",
-    "naics": "336411",
-    "solicitation_number": "FA441726Q0226",
-    "deadline": "2026-12-07",
-    "published": "2026-11-25",
-    "contacts": [
-      {
-        "name": "Justin Carroll",
-        "email": "justin.carroll.4@us.af.mil",
-        "phone": "884-7685"
-      }
-    ],
-    "description": "",
-    "url": "https://sam.gov/workspace/contract/opp/bce7e5be62104b6a81fbc976b30c8312/view",
-    "score": 16,
-    "recommendation": "PASS",
-    "fit_reason": "Related: special operations; Buying signal: solicitation"
-  },
-  {
-    "source": "SAM.gov",
-    "source_id": "abeaa466a9864ac9bfdee2ba5f9644fa",
-    "title": "Next Generation Tactical Radio (NGTR)",
-    "organization": "DEPT OF DEFENSE.DEPT OF THE NAVY.NAVAIR.NAVAIR NAWC AD.NAVAL AIR WARFARE CENTER AIR DIV",
-    "office": "",
-    "country": "United States",
-    "state": "Maryland",
-    "notice_type": "Presolicitation",
-    "naics": "334220",
-    "solicitation_number": "N00421-27-RFPREQ-TPM209-0199",
-    "deadline": "2026-12-14",
-    "published": "2026-11-25",
-    "contacts": [
-      {
-        "name": "Sham Keswani",
-        "email": "sham.v.keswani.civ@us.navy.mil",
-        "phone": ""
-      },
-      {
-        "name": "Travora Levasseur",
-        "email": "travora.r.levasseur.civ@us.navy.mil",
-        "phone": ""
-      }
-    ],
-    "description": "",
-    "url": "https://sam.gov/workspace/contract/opp/abeaa466a9864ac9bfdee2ba5f9644fa/view",
-    "score": 16,
-    "recommendation": "PASS",
-    "fit_reason": "Related: tactical; Buying signal: solicitation, presolicitation"
-  },
-  {
     "source": "World Bank",
     "source_id": "WB-482321",
     "title": "Rental of adequately equipped and accessible training venues for the delivery of project training activities across targeted locations.",
@@ -160,6 +72,58 @@
   },
   {
     "source": "SAM.gov",
+    "source_id": "2abf7cc70fcf4b22a26dacece914ff14",
+    "title": "U--NPFA 70E- Low Voltage Training Program",
+    "organization": "ENERGY, DEPARTMENT OF.ENERGY, DEPARTMENT OF.WESTERN-UPPER GREAT PLAINS REGION",
+    "office": "",
+    "country": "United States",
+    "state": "",
+    "notice_type": "Solicitation",
+    "naics": "611430",
+    "solicitation_number": "89503427QWA001336",
+    "deadline": "2026-12-01",
+    "published": "2026-11-28",
+    "contacts": [
+      {
+        "name": "Pfeifle, Mary K.",
+        "email": "pfeifle@wapa.gov",
+        "phone": "605-566-6964"
+      }
+    ],
+    "description": "",
+    "url": "https://sam.gov/workspace/contract/opp/2abf7cc70fcf4b22a26dacece914ff14/view",
+    "score": 14,
+    "recommendation": "PASS",
+    "fit_reason": "Buying signal: solicitation"
+  },
+  {
+    "source": "SAM.gov",
+    "source_id": "c79d8ac798984f739bd15e7bede67be5",
+    "title": "Technical, Managerial, and Financial (TMF) Support and Training for Tribal Solid Waste Programs",
+    "organization": "HEALTH AND HUMAN SERVICES, DEPARTMENT OF.INDIAN HEALTH SERVICE.ALBUQUERQUE AREA INDIAN HEALTH SVC",
+    "office": "",
+    "country": "United States",
+    "state": "New Mexico",
+    "notice_type": "Sources Sought",
+    "naics": "611430",
+    "solicitation_number": "SS_TMF_SOLIDWASTE",
+    "deadline": "2026-12-28",
+    "published": "2026-11-27",
+    "contacts": [
+      {
+        "name": "Stephanie Begay",
+        "email": "stephanie.begay3@ihs.gov",
+        "phone": "5052566750"
+      }
+    ],
+    "description": "",
+    "url": "https://sam.gov/workspace/contract/opp/c79d8ac798984f739bd15e7bede67be5/view",
+    "score": 14,
+    "recommendation": "PASS",
+    "fit_reason": "Buying signal: sources sought"
+  },
+  {
+    "source": "SAM.gov",
     "source_id": "b5bca2bf82284dbd81b4c84714caa31b",
     "title": "HDCSO Analytical Laboratory Systems (ALS) Course Instruction Services",
     "organization": "DEPT OF DEFENSE.DEPT OF THE ARMY.AMC.ACC.MISSION INSTALLATION CONTRACTING COMMAND.FDO EUSTIS.W6QM MICC-FT LEONARD WOOD",
@@ -185,6 +149,68 @@
     ],
     "description": "",
     "url": "https://sam.gov/workspace/contract/opp/b5bca2bf82284dbd81b4c84714caa31b/view",
+    "score": 14,
+    "recommendation": "PASS",
+    "fit_reason": "Buying signal: solicitation"
+  },
+  {
+    "source": "SAM.gov",
+    "source_id": "afac3e2c7e37412190fac82eae4b734b",
+    "title": "Licensed Practical Nurse (LPN)",
+    "organization": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR EDUCATION AND TRAINING COMMAND.JOINT BASE SAN ANTONIO.FA3016  502 CONS CL",
+    "office": "",
+    "country": "United States",
+    "state": "",
+    "notice_type": "Solicitation",
+    "naics": "621399",
+    "solicitation_number": "FA301627Q0020",
+    "deadline": "2026-12-15",
+    "published": "2026-11-27",
+    "contacts": [
+      {
+        "name": "Antonio Villarreal",
+        "email": "antonio.villarreal.2@us.af.mil",
+        "phone": "385-679-2148"
+      },
+      {
+        "name": "Belinda Tindal",
+        "email": "502CONS.PKBA.Contracts@us.af.mil",
+        "phone": "210-671-4334"
+      }
+    ],
+    "description": "",
+    "url": "https://sam.gov/workspace/contract/opp/afac3e2c7e37412190fac82eae4b734b/view",
+    "score": 14,
+    "recommendation": "PASS",
+    "fit_reason": "Buying signal: solicitation"
+  },
+  {
+    "source": "SAM.gov",
+    "source_id": "353a2ec48b3c483bab6aab2c91a4345b",
+    "title": "21 FSS Group Exercise Instructors BPA",
+    "organization": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.FA2517  21 CONS BLDG 350",
+    "office": "",
+    "country": "United States",
+    "state": "Colorado",
+    "notice_type": "Combined Synopsis/Solicitation",
+    "naics": "611620",
+    "solicitation_number": "Group-Exercise-Instruction-BPA",
+    "deadline": "2026-12-09",
+    "published": "2026-11-27",
+    "contacts": [
+      {
+        "name": "Victor Santana",
+        "email": "victor.santana.4@spaceforce.mil",
+        "phone": "7195565695"
+      },
+      {
+        "name": "Stephen Hayden",
+        "email": "stephen.hayden.1@spaceforce.mil",
+        "phone": "7195566117"
+      }
+    ],
+    "description": "",
+    "url": "https://sam.gov/workspace/contract/opp/353a2ec48b3c483bab6aab2c91a4345b/view",
     "score": 14,
     "recommendation": "PASS",
     "fit_reason": "Buying signal: solicitation"
@@ -481,37 +507,6 @@
   },
   {
     "source": "SAM.gov",
-    "source_id": "b0270eacb87c45f89e7076135619721e",
-    "title": "Spaceport Operational Construction Consortium (SpOCC) Request for Information",
-    "organization": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.SPACE SYSTEMS COMMAND.FA4610 30 CONS PK",
-    "office": "",
-    "country": "United States",
-    "state": "California",
-    "notice_type": "Sources Sought",
-    "naics": "",
-    "solicitation_number": "SLD30-SLD45_SpOCC",
-    "deadline": "2026-12-17",
-    "published": "2026-11-25",
-    "contacts": [
-      {
-        "name": "Jeffrey Grelck",
-        "email": "jeffrey.grelck@spaceforce.mil",
-        "phone": ""
-      },
-      {
-        "name": "Alyson Kolding",
-        "email": "Alyson.Kolding@spaceforce.mil",
-        "phone": ""
-      }
-    ],
-    "description": "",
-    "url": "https://sam.gov/workspace/contract/opp/b0270eacb87c45f89e7076135619721e/view",
-    "score": 11,
-    "recommendation": "PASS",
-    "fit_reason": "Buying signal: sources sought, request for information"
-  },
-  {
-    "source": "SAM.gov",
     "source_id": "cf508ca2debb4991892f2d26ff957675",
     "title": "17--TOWBAR,AIRCRAFT",
     "organization": "DEPT OF DEFENSE.DEFENSE LOGISTICS AGENCY.DLA AVIATION.DLA AVIATION PHILADELPHIA.DLA AVIATION AT PHILADELPHIA, PA",
@@ -532,6 +527,32 @@
     ],
     "description": "",
     "url": "https://sam.gov/workspace/contract/opp/cf508ca2debb4991892f2d26ff957675/view",
+    "score": 10,
+    "recommendation": "PASS",
+    "fit_reason": "Buying signal: solicitation, presolicitation"
+  },
+  {
+    "source": "SAM.gov",
+    "source_id": "cdfdf47169304ad3acb673887c452771",
+    "title": "6505--Albuterol Oral Inhaler CFC_F (VA-27-00016987)",
+    "organization": "VETERANS AFFAIRS, DEPARTMENT OF.VETERANS AFFAIRS, DEPARTMENT OF.NAC PHARMACEUTICALS (36E797)",
+    "office": "",
+    "country": "United States",
+    "state": "",
+    "notice_type": "Presolicitation",
+    "naics": "325412",
+    "solicitation_number": "36E79727R0011",
+    "deadline": "2026-12-29",
+    "published": "2026-11-27",
+    "contacts": [
+      {
+        "name": "Kenneth Lay",
+        "email": "Kenneth.Lay@va.gov",
+        "phone": "708-786-4879"
+      }
+    ],
+    "description": "",
+    "url": "https://sam.gov/workspace/contract/opp/cdfdf47169304ad3acb673887c452771/view",
     "score": 10,
     "recommendation": "PASS",
     "fit_reason": "Buying signal: solicitation, presolicitation"
@@ -880,6 +901,32 @@
     ],
     "description": "",
     "url": "https://sam.gov/workspace/contract/opp/6acd587e05b8425eae2230bedbad882d/view",
+    "score": 10,
+    "recommendation": "PASS",
+    "fit_reason": "Buying signal: solicitation, presolicitation"
+  },
+  {
+    "source": "SAM.gov",
+    "source_id": "68f94a0d2a5c4e2d92e1fba007086ca8",
+    "title": "Y1DA--REPAIR CLC SHOWER ACCESS  538-25-206",
+    "organization": "VETERANS AFFAIRS, DEPARTMENT OF.VETERANS AFFAIRS, DEPARTMENT OF.250-NETWORK CONTRACT OFFICE 10 (36C250)",
+    "office": "",
+    "country": "United States",
+    "state": "Ohio",
+    "notice_type": "Presolicitation",
+    "naics": "236220",
+    "solicitation_number": "36C25027B0011",
+    "deadline": "2027-01-14",
+    "published": "2026-11-27",
+    "contacts": [
+      {
+        "name": "Matthew Curtis",
+        "email": "matthew.curtis1@va.gov",
+        "phone": "937-268-6511"
+      }
+    ],
+    "description": "",
+    "url": "https://sam.gov/workspace/contract/opp/68f94a0d2a5c4e2d92e1fba007086ca8/view",
     "score": 10,
     "recommendation": "PASS",
     "fit_reason": "Buying signal: solicitation, presolicitation"
@@ -1741,172 +1788,6 @@
     "fit_reason": "Buying signal: solicitation, presolicitation"
   },
   {
-    "source": "SAM.gov",
-    "source_id": "bde43dbeae0f41aabbe52372f69be082",
-    "title": "VA Class Submarine Scrubbers Repair",
-    "organization": "DEPT OF DEFENSE.DEPT OF THE NAVY.NAVSEA.NAVSEA SHIPYARD.PEARL HARBOR NAVAL SHIPYARD IMF",
-    "office": "",
-    "country": "United States",
-    "state": "Hawaii",
-    "notice_type": "Presolicitation",
-    "naics": "336611",
-    "solicitation_number": "N32253-27-R-0001",
-    "deadline": "2026-12-18",
-    "published": "2026-11-25",
-    "contacts": [
-      {
-        "name": "Haley Torres",
-        "email": "haleymarie.t.torres.civ@us.navy.mil",
-        "phone": "8084738000"
-      },
-      {
-        "name": "Kelley Gould-Ogomori",
-        "email": "kelley.m.gould-ogomori.civ@us.navy.mil",
-        "phone": "8084738000"
-      }
-    ],
-    "description": "",
-    "url": "https://sam.gov/workspace/contract/opp/bde43dbeae0f41aabbe52372f69be082/view",
-    "score": 10,
-    "recommendation": "PASS",
-    "fit_reason": "Buying signal: solicitation, presolicitation"
-  },
-  {
-    "source": "SAM.gov",
-    "source_id": "bbdb10e77d144e61b9477f22881a666d",
-    "title": "16--AFT AIV FAN,AIRCRAF, IN REPAIR/MODIFICATION OF",
-    "organization": "DEPT OF DEFENSE.DEPT OF THE NAVY.NAVSUP.NAVSUP WEAPON SYSTEMS SUPPORT.NAVSUP WSS PHILADELPHIA.NAVSUP WEAPON SYSTEMS SUPPORT",
-    "office": "",
-    "country": "United States",
-    "state": "",
-    "notice_type": "Presolicitation",
-    "naics": "",
-    "solicitation_number": "N0038327QNA35",
-    "deadline": "2027-01-11",
-    "published": "2026-11-25",
-    "contacts": [
-      {
-        "name": "SHANNON R. MENICKELLA, N731.51, PHONE (215)697-2198, EMAIL SHANNON.R.MENICKELLA.CIV@US.NAVY.MIL",
-        "email": "SHANNON.R.MENICKELLA.CIV@US.NAVY.MIL",
-        "phone": ""
-      }
-    ],
-    "description": "",
-    "url": "https://sam.gov/workspace/contract/opp/bbdb10e77d144e61b9477f22881a666d/view",
-    "score": 10,
-    "recommendation": "PASS",
-    "fit_reason": "Buying signal: solicitation, presolicitation"
-  },
-  {
-    "source": "SAM.gov",
-    "source_id": "bba6bc65118e4586a99deeddc869db33",
-    "title": "81--SHIPPING AND STORAG",
-    "organization": "DEPT OF DEFENSE.DEFENSE LOGISTICS AGENCY.DLA AVIATION.DLA AVIATION PHILADELPHIA.DLA AVIATION AT PHILADELPHIA, PA",
-    "office": "",
-    "country": "United States",
-    "state": "",
-    "notice_type": "Presolicitation",
-    "naics": "",
-    "solicitation_number": "SPRPA127RVA35",
-    "deadline": "2027-01-11",
-    "published": "2026-11-25",
-    "contacts": [
-      {
-        "name": "CASEY STOCK, APAC.40, PHONE (215)737-0543, EMAIL CASEY.STOCK@DLA.MIL",
-        "email": "CASEY.STOCK@DLA.MIL",
-        "phone": ""
-      }
-    ],
-    "description": "",
-    "url": "https://sam.gov/workspace/contract/opp/bba6bc65118e4586a99deeddc869db33/view",
-    "score": 10,
-    "recommendation": "PASS",
-    "fit_reason": "Buying signal: solicitation, presolicitation"
-  },
-  {
-    "source": "SAM.gov",
-    "source_id": "b75c34f3c1264bb7ae1511710c199865",
-    "title": "RFQ SF330 - NOAA Eastern Region Architect and Engineering IDIQ",
-    "organization": "COMMERCE, DEPARTMENT OF.NATIONAL OCEANIC AND ATMOSPHERIC ADMINISTRATION.DEPT OF COMMERCE NOAA",
-    "office": "",
-    "country": "United States",
-    "state": "Maryland",
-    "notice_type": "Presolicitation",
-    "naics": "541330",
-    "solicitation_number": "REQUIREMENTS-25-2369",
-    "deadline": "2026-12-23",
-    "published": "2026-11-25",
-    "contacts": [
-      {
-        "name": "Daphney Jean-Minter",
-        "email": "daphney.jean-minter@noaa.gov",
-        "phone": "3014934030"
-      },
-      {
-        "name": "Patrill Smith-Moody",
-        "email": "patrill.smith-moody@noaa.gov",
-        "phone": "3016281436"
-      }
-    ],
-    "description": "",
-    "url": "https://sam.gov/workspace/contract/opp/b75c34f3c1264bb7ae1511710c199865/view",
-    "score": 10,
-    "recommendation": "PASS",
-    "fit_reason": "Buying signal: solicitation, presolicitation"
-  },
-  {
-    "source": "SAM.gov",
-    "source_id": "b0f04bcc230249c583e9953ba9649ebf",
-    "title": "Wiring Harness Branched",
-    "organization": "DEPT OF DEFENSE.DEFENSE LOGISTICS AGENCY.DLA AVIATION.DLA AV RICHMOND.DLA AVIATION",
-    "office": "",
-    "country": "United States",
-    "state": "",
-    "notice_type": "Presolicitation",
-    "naics": "335311",
-    "solicitation_number": "SPE4A627R0014",
-    "deadline": "2027-01-14",
-    "published": "2026-11-25",
-    "contacts": [
-      {
-        "name": "Cassandra Cooper804 489-2124",
-        "email": "CASSANDRA.COOPER@DLA.MIL",
-        "phone": ""
-      }
-    ],
-    "description": "",
-    "url": "https://sam.gov/workspace/contract/opp/b0f04bcc230249c583e9953ba9649ebf/view",
-    "score": 10,
-    "recommendation": "PASS",
-    "fit_reason": "Buying signal: solicitation, presolicitation"
-  },
-  {
-    "source": "SAM.gov",
-    "source_id": "b060d23eb99346ca8bc05fdacd2615c7",
-    "title": "61--CABLE ASSEMBLY,SPEC- AND SIMILAR REPLACEMENT PARTS",
-    "organization": "DEPT OF DEFENSE.DEPT OF THE NAVY.NAVSUP.NAVSUP WEAPON SYSTEMS SUPPORT.NAVSUP WSS MECHANICSBURG.NAVSUP WEAPON SYSTEMS SUPPORT MECH",
-    "office": "",
-    "country": "United States",
-    "state": "",
-    "notice_type": "Presolicitation",
-    "naics": "",
-    "solicitation_number": "N0010426QFF02",
-    "deadline": "2026-12-28",
-    "published": "2026-11-25",
-    "contacts": [
-      {
-        "name": "NOELLE M. SMITH, N743.43, PHONE (717)605-3992, EMAIL NOELLE.M.SMITH10.CIV@US.NAVY.MIL",
-        "email": "NOELLE.M.SMITH10.CIV@US.NAVY.MIL",
-        "phone": ""
-      }
-    ],
-    "description": "",
-    "url": "https://sam.gov/workspace/contract/opp/b060d23eb99346ca8bc05fdacd2615c7/view",
-    "score": 10,
-    "recommendation": "PASS",
-    "fit_reason": "Buying signal: solicitation, presolicitation"
-  },
-  {
     "source": "World Bank",
     "source_id": "WB-483345",
     "title": "Procurement of the Customs Artificial Intelligence and Machine Learning (AI&ML) Electronic Management System.",
@@ -2128,26 +2009,6 @@
   },
   {
     "source": "World Bank",
-    "source_id": "WB-482493",
-    "title": "Development of an operational framework, draft Ops Manual (or update NIS Ops Manual) for UI including emergency protocols, conduct training for MLSS staff and critical stakeholders (employers and trade unions etc).",
-    "organization": "World Bank",
-    "office": "",
-    "country": "Jamaica",
-    "state": "",
-    "notice_type": "Request for Expression of Interest",
-    "naics": "",
-    "solicitation_number": "P178582",
-    "deadline": "2026-11-27",
-    "published": "2026-11-18",
-    "contacts": [],
-    "description": "Consultant Qualification  Selection • Consultant Services",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00482493",
-    "score": 8,
-    "recommendation": "PASS",
-    "fit_reason": "No strong SWAT/tactical procurement signal detected."
-  },
-  {
-    "source": "World Bank",
     "source_id": "WB-482007",
     "title": "Design and build of energy-efficiency measures in ten (10) selected public schools under Batch 1 (2 Lots)",
     "organization": "World Bank",
@@ -2365,6 +2226,46 @@
     "score": 8,
     "recommendation": "PASS",
     "fit_reason": "Buying signal: request for proposals"
+  },
+  {
+    "source": "World Bank",
+    "source_id": "WB-484031",
+    "title": "Procurement of a Robotic Welding Cell for Stepan Gzhytskyi National University of Veterinary Medicine and Biotechnologies Lviv and Admiral Makarov National University of Shipbuilding",
+    "organization": "World Bank",
+    "office": "",
+    "country": "Ukraine",
+    "state": "",
+    "notice_type": "Invitation for Bids",
+    "naics": "",
+    "solicitation_number": "P171050",
+    "deadline": "2026-12-15",
+    "published": "2026-11-26",
+    "contacts": [],
+    "description": "Request for Quotations • Goods",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00484031",
+    "score": 7,
+    "recommendation": "PASS",
+    "fit_reason": "Buying signal: request for quotation"
+  },
+  {
+    "source": "World Bank",
+    "source_id": "WB-484073",
+    "title": "Procurement of software for backup and recovery of virtual environments for the Ukrainian Center for Educational Quality Assessment (UCEQA)",
+    "organization": "World Bank",
+    "office": "",
+    "country": "Ukraine",
+    "state": "",
+    "notice_type": "Invitation for Bids",
+    "naics": "",
+    "solicitation_number": "P171050",
+    "deadline": "2026-12-10",
+    "published": "2026-11-26",
+    "contacts": [],
+    "description": "Request for Quotations • Goods",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00484073",
+    "score": 7,
+    "recommendation": "PASS",
+    "fit_reason": "Buying signal: request for quotation"
   },
   {
     "source": "World Bank",
@@ -2808,26 +2709,6 @@
   },
   {
     "source": "World Bank",
-    "source_id": "WB-481850",
-    "title": "Modernisation, intégration, de cybersécurité, de supervision, de sauvegarde et de continuité de service du système d'information de l'AGEROUTE",
-    "organization": "World Bank",
-    "office": "",
-    "country": "Mali",
-    "state": "",
-    "notice_type": "Invitation for Bids",
-    "naics": "",
-    "solicitation_number": "P507921",
-    "deadline": "2026-11-27",
-    "published": "2026-11-16",
-    "contacts": [],
-    "description": "Request for Quotations • Goods",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00481850",
-    "score": 7,
-    "recommendation": "PASS",
-    "fit_reason": "Buying signal: request for quotation"
-  },
-  {
-    "source": "World Bank",
     "source_id": "WB-481333",
     "title": "ACQUISITION DES KITS LOGISTIQUE À LA FORMATION DES RÉFÉRENTS NUMÉRIQUES DU CNTEMAD",
     "organization": "World Bank",
@@ -2862,26 +2743,6 @@
     "contacts": [],
     "description": "Request for Quotations • Goods",
     "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00481383",
-    "score": 7,
-    "recommendation": "PASS",
-    "fit_reason": "Buying signal: request for quotation"
-  },
-  {
-    "source": "World Bank",
-    "source_id": "WB-480659",
-    "title": "Aquisição de materiais de Segurança Marítima para Pescadores Artesanais em STP e aquisição de materiais informáticos e equipamentos, para reforçar o processo de recolha, processamento, análise e divulgação de dados sobre perdas dos pescadores",
-    "organization": "World Bank",
-    "office": "",
-    "country": "Sao Tome and Principe",
-    "state": "",
-    "notice_type": "Invitation for Bids",
-    "naics": "",
-    "solicitation_number": "P180982",
-    "deadline": "2026-12-01",
-    "published": "2026-11-10",
-    "contacts": [],
-    "description": "Request for Quotations • Goods",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00480659",
     "score": 7,
     "recommendation": "PASS",
     "fit_reason": "Buying signal: request for quotation"
@@ -2966,6 +2827,63 @@
   },
   {
     "source": "SAM.gov",
+    "source_id": "f8f1a26881784c0099294460db5d8526",
+    "title": "Motor, Direct Current",
+    "organization": "DEPT OF DEFENSE.DEFENSE LOGISTICS AGENCY.DLA MARITIME.DLA MARITIME COLUMBUS.DLA LAND AND MARITIME",
+    "office": "",
+    "country": "United States",
+    "state": "",
+    "notice_type": "Sources Sought",
+    "naics": "335312",
+    "solicitation_number": "CM26202002",
+    "deadline": "2026-12-04",
+    "published": "2026-11-27",
+    "contacts": [
+      {
+        "name": "Brandon Preece",
+        "email": "brandon.preece@dla.mil",
+        "phone": "6146932952"
+      },
+      {
+        "name": "Karin Wilson",
+        "email": "karin.wilson@dla.mil",
+        "phone": "6146933206"
+      }
+    ],
+    "description": "",
+    "url": "https://sam.gov/workspace/contract/opp/f8f1a26881784c0099294460db5d8526/view",
+    "score": 6,
+    "recommendation": "PASS",
+    "fit_reason": "Buying signal: sources sought"
+  },
+  {
+    "source": "SAM.gov",
+    "source_id": "f5b9654942634ae48e0913965ec4e231",
+    "title": "FY27 Euclid Creek Fishway Construction ",
+    "organization": "DEPT OF DEFENSE.DEPT OF THE ARMY.US ARMY CORPS OF ENGINEERS.ENGINEER DIVISION GREAT LAKES AND OHIO.ENDIST BUFFALO.W072 ENDIST BUFFALO",
+    "office": "",
+    "country": "United States",
+    "state": "",
+    "notice_type": "Solicitation",
+    "naics": "237990",
+    "solicitation_number": "W912P427BA001",
+    "deadline": "2026-12-17",
+    "published": "2026-11-27",
+    "contacts": [
+      {
+        "name": "ANDREW HEWITT",
+        "email": "andrew.b.hewitt@usace.army.mil",
+        "phone": "7163393307"
+      }
+    ],
+    "description": "",
+    "url": "https://sam.gov/workspace/contract/opp/f5b9654942634ae48e0913965ec4e231/view",
+    "score": 6,
+    "recommendation": "PASS",
+    "fit_reason": "Buying signal: solicitation"
+  },
+  {
+    "source": "SAM.gov",
     "source_id": "f29f62405dd64343aef508b1150d4012",
     "title": "MULTI-SERVICE PROCESSING CENTER (SPC)",
     "organization": "HOMELAND SECURITY, DEPARTMENT OF.US IMMIGRATION AND CUSTOMS ENFORCEMENT.DETENTION COMPLIANCE AND REMOVALS",
@@ -3017,6 +2935,63 @@
     ],
     "description": "",
     "url": "https://sam.gov/workspace/contract/opp/f07d333404274293b60702b068bd67da/view",
+    "score": 6,
+    "recommendation": "PASS",
+    "fit_reason": "Buying signal: solicitation"
+  },
+  {
+    "source": "SAM.gov",
+    "source_id": "f03c3f3847704997925eb94fda67fadd",
+    "title": "SPMYM227Q0231 FOLDING PARTITION",
+    "organization": "DEPT OF DEFENSE.DEFENSE LOGISTICS AGENCY.DLA MARITIME.DLA MARITIME SHIPYARDS.DLA MARITIME - PUGET SOUND",
+    "office": "",
+    "country": "United States",
+    "state": "Washington",
+    "notice_type": "Solicitation",
+    "naics": "332510",
+    "solicitation_number": "SPMYM227Q0231",
+    "deadline": "2026-12-01",
+    "published": "2026-11-27",
+    "contacts": [
+      {
+        "name": "DONNA TODD",
+        "email": "DONNA.TODD@DLA.MIL",
+        "phone": "3855911057"
+      }
+    ],
+    "description": "",
+    "url": "https://sam.gov/workspace/contract/opp/f03c3f3847704997925eb94fda67fadd/view",
+    "score": 6,
+    "recommendation": "PASS",
+    "fit_reason": "Buying signal: solicitation"
+  },
+  {
+    "source": "SAM.gov",
+    "source_id": "eec4a9a4199148529fbb7f9dace2ba86",
+    "title": "Best Pharmaceuticals for Children Act Data Coordination Center",
+    "organization": "HEALTH AND HUMAN SERVICES, DEPARTMENT OF.NATIONAL INSTITUTES OF HEALTH.NATIONAL INSTITUTES OF HEALTH NICHD",
+    "office": "",
+    "country": "United States",
+    "state": "",
+    "notice_type": "Solicitation",
+    "naics": "541715",
+    "solicitation_number": "75N94026R00008",
+    "deadline": "2026-12-18",
+    "published": "2026-11-27",
+    "contacts": [
+      {
+        "name": "Theresa Ranjit",
+        "email": "Theresa.Ranjit@nih.gov",
+        "phone": ""
+      },
+      {
+        "name": "Alice Pagan, Contracting Officer",
+        "email": "Alice.Pagan@nih.gov",
+        "phone": ""
+      }
+    ],
+    "description": "",
+    "url": "https://sam.gov/workspace/contract/opp/eec4a9a4199148529fbb7f9dace2ba86/view",
     "score": 6,
     "recommendation": "PASS",
     "fit_reason": "Buying signal: solicitation"
@@ -3080,6 +3055,32 @@
   },
   {
     "source": "SAM.gov",
+    "source_id": "e99015c48e914076a1503aaceb02dfdd",
+    "title": "CHARGER, BATTERY_End_Item_F-16_NSN_6130014866660HY_PN_713290-2",
+    "organization": "DEPT OF DEFENSE.DEFENSE LOGISTICS AGENCY.DLA AVIATION.DLA AVIATION OKLAHOMA CITY.DLA AVIATION AT OKLAHOMA CITY, OK",
+    "office": "",
+    "country": "United States",
+    "state": "",
+    "notice_type": "Solicitation",
+    "naics": "336413",
+    "solicitation_number": "SPRTA1-27-R-0121",
+    "deadline": "2026-12-28",
+    "published": "2026-11-27",
+    "contacts": [
+      {
+        "name": "Kristian Hollingshead",
+        "email": "kristian.hollingshead.1@us.af.mil",
+        "phone": ""
+      }
+    ],
+    "description": "",
+    "url": "https://sam.gov/workspace/contract/opp/e99015c48e914076a1503aaceb02dfdd/view",
+    "score": 6,
+    "recommendation": "PASS",
+    "fit_reason": "Buying signal: solicitation"
+  },
+  {
+    "source": "SAM.gov",
     "source_id": "e6816ad1b2e74ab682fd27c83376e2b6",
     "title": "TERM BLOCK SHEET",
     "organization": "DEPT OF DEFENSE.DEPT OF THE NAVY.NAVSUP.NAVSUP WEAPON SYSTEMS SUPPORT.NAVSUP WSS MECHANICSBURG.NAVSUP WEAPON SYSTEMS SUPPORT MECH",
@@ -3132,6 +3133,58 @@
   },
   {
     "source": "SAM.gov",
+    "source_id": "e40b5c3f90c0499d8b2a1fbc464cd58e",
+    "title": "Dental Laboratory Services - Zia  Health Clinic - Zia Pueblo, NM",
+    "organization": "HEALTH AND HUMAN SERVICES, DEPARTMENT OF.INDIAN HEALTH SERVICE.ALBUQUERQUE AREA INDIAN HEALTH SVC",
+    "office": "",
+    "country": "United States",
+    "state": "New Mexico",
+    "notice_type": "Combined Synopsis/Solicitation",
+    "naics": "339116",
+    "solicitation_number": "75H70726Q00105",
+    "deadline": "2026-12-11",
+    "published": "2026-11-27",
+    "contacts": [
+      {
+        "name": "Shandiin DeWolfe",
+        "email": "Shandiin.DeWolfe@ihs.gov",
+        "phone": "(505) 256-6755"
+      }
+    ],
+    "description": "",
+    "url": "https://sam.gov/workspace/contract/opp/e40b5c3f90c0499d8b2a1fbc464cd58e/view",
+    "score": 6,
+    "recommendation": "PASS",
+    "fit_reason": "Buying signal: solicitation"
+  },
+  {
+    "source": "SAM.gov",
+    "source_id": "e3f4c481f61c49cea61fa3373e80eecd",
+    "title": "Electric Control Panel_End_Item_KC46_NSN_1680016547798KT_PN_62841",
+    "organization": "DEPT OF DEFENSE.DEFENSE LOGISTICS AGENCY.DLA AVIATION.DLA AVIATION OKLAHOMA CITY.DLA AVIATION AT OKLAHOMA CITY, OK",
+    "office": "",
+    "country": "United States",
+    "state": "",
+    "notice_type": "Sources Sought",
+    "naics": "336413",
+    "solicitation_number": "FD20302700278",
+    "deadline": "2026-12-04",
+    "published": "2026-11-27",
+    "contacts": [
+      {
+        "name": "422 SCMS",
+        "email": "422.SCMS.AFMC.RFI@us.af.mil.",
+        "phone": ""
+      }
+    ],
+    "description": "",
+    "url": "https://sam.gov/workspace/contract/opp/e3f4c481f61c49cea61fa3373e80eecd/view",
+    "score": 6,
+    "recommendation": "PASS",
+    "fit_reason": "Buying signal: sources sought"
+  },
+  {
+    "source": "SAM.gov",
     "source_id": "e20260c5c0f042a2be0d0320f5ea9cf6",
     "title": "Sources Sought – Landscaping Services Mescalero Indian Health Center",
     "organization": "HEALTH AND HUMAN SERVICES, DEPARTMENT OF.INDIAN HEALTH SERVICE.ALBUQUERQUE AREA INDIAN HEALTH SVC",
@@ -3155,6 +3208,58 @@
     "score": 6,
     "recommendation": "PASS",
     "fit_reason": "Buying signal: sources sought"
+  },
+  {
+    "source": "SAM.gov",
+    "source_id": "dccd124dfbde4dc8adb86380312fc503",
+    "title": "Carpet Installation, LED light installation, and Painting",
+    "organization": "DEPT OF DEFENSE.DEPT OF THE NAVY.NAVSUP.NAVSUP GLOBAL LOGISTICS SUPPORT.NAVSUP FLC NORFOLK.NAVSUP FLT LOG CTR NORFOLK",
+    "office": "",
+    "country": "United States",
+    "state": "Virginia",
+    "notice_type": "Solicitation",
+    "naics": "238330",
+    "solicitation_number": "N0018926QL038",
+    "deadline": "2026-12-07",
+    "published": "2026-11-27",
+    "contacts": [
+      {
+        "name": "Brittany Simmons",
+        "email": "brittany.s.simmons3.civ@us.navy.mil",
+        "phone": ""
+      }
+    ],
+    "description": "",
+    "url": "https://sam.gov/workspace/contract/opp/dccd124dfbde4dc8adb86380312fc503/view",
+    "score": 6,
+    "recommendation": "PASS",
+    "fit_reason": "Buying signal: solicitation"
+  },
+  {
+    "source": "SAM.gov",
+    "source_id": "db7c8d5f5cc2430296c48fd2c11a9dcf",
+    "title": "CHARGER, BATTERY_End_Item_F-16_NSN_6130014866660HY_PN_713290-2",
+    "organization": "DEPT OF DEFENSE.DEFENSE LOGISTICS AGENCY.DLA AVIATION.DLA AVIATION OKLAHOMA CITY.DLA AVIATION AT OKLAHOMA CITY, OK",
+    "office": "",
+    "country": "United States",
+    "state": "",
+    "notice_type": "Solicitation",
+    "naics": "336413",
+    "solicitation_number": "SPRTA1-27-R-0122",
+    "deadline": "2026-12-28",
+    "published": "2026-11-27",
+    "contacts": [
+      {
+        "name": "Kristian Hollingshead",
+        "email": "kristian.hollingshead.1@us.af.mil",
+        "phone": ""
+      }
+    ],
+    "description": "",
+    "url": "https://sam.gov/workspace/contract/opp/db7c8d5f5cc2430296c48fd2c11a9dcf/view",
+    "score": 6,
+    "recommendation": "PASS",
+    "fit_reason": "Buying signal: solicitation"
   },
   {
     "source": "SAM.gov",
@@ -3184,6 +3289,32 @@
   },
   {
     "source": "SAM.gov",
+    "source_id": "d5f9114c0d034b75913f6ce6963317f2",
+    "title": "Sources Sought - Emergency Generator Preventive Maintenance, Testing, Repairs Mescalero Indian Health Center",
+    "organization": "HEALTH AND HUMAN SERVICES, DEPARTMENT OF.INDIAN HEALTH SERVICE.ALBUQUERQUE AREA INDIAN HEALTH SVC",
+    "office": "",
+    "country": "United States",
+    "state": "New Mexico",
+    "notice_type": "Sources Sought",
+    "naics": "811310",
+    "solicitation_number": "Sources_Sought_Emergency_Generator_Preventive_Maintenance_Testing_Repairs_MIHC",
+    "deadline": "2026-12-07",
+    "published": "2026-11-27",
+    "contacts": [
+      {
+        "name": "Tamela Richards",
+        "email": "tamela.richards@ihs.gov",
+        "phone": "(505) 256-6762"
+      }
+    ],
+    "description": "",
+    "url": "https://sam.gov/workspace/contract/opp/d5f9114c0d034b75913f6ce6963317f2/view",
+    "score": 6,
+    "recommendation": "PASS",
+    "fit_reason": "Buying signal: sources sought"
+  },
+  {
+    "source": "SAM.gov",
     "source_id": "d0bdeed2d2d043c2b27c2743d25809e9",
     "title": "Chicago Parking Space Rental",
     "organization": "SOCIAL SECURITY ADMINISTRATION.SOCIAL SECURITY ADMINISTRATION.SSA OFC OF ACQUISITION  GRANTS",
@@ -3210,26 +3341,31 @@
   },
   {
     "source": "SAM.gov",
-    "source_id": "cd660e2333ca4d88ad4354da407b412e",
-    "title": "BOLT,MACHINE",
-    "organization": "DEPT OF DEFENSE.DEPT OF THE NAVY.NAVSUP.NAVSUP WEAPON SYSTEMS SUPPORT.NAVSUP WSS PHILADELPHIA.NAVSUP WEAPON SYSTEMS SUPPORT",
+    "source_id": "cf5dbe2a2b3142a3b97bc07a7222657e",
+    "title": "Fiscal Year (FY) 2027 Florida Panhandle Optimized Remediation Contract (ORC) and Military Munitions Response Program (MMRP)",
+    "organization": "DEPT OF DEFENSE.DEPT OF THE ARMY.US ARMY CORPS OF ENGINEERS.ENGINEER DIVISION SOUTH ATLANTIC.ENDIST MOBILE.W074 ENDIST MOBILE",
     "office": "",
     "country": "United States",
-    "state": "",
+    "state": "Florida",
     "notice_type": "Solicitation",
-    "naics": "332722",
-    "solicitation_number": "N0038327QTA09",
-    "deadline": "2026-11-27",
+    "naics": "562910",
+    "solicitation_number": "W9127827RA002",
+    "deadline": "2026-12-30",
     "published": "2026-11-27",
     "contacts": [
       {
-        "name": "Telephone: 2156974787",
-        "email": "KELLY.A.GIPSON2.CIV@US.NAVY.MIL",
+        "name": "Danielle Kachele",
+        "email": "danielle.l.kachele@usace.army.mil",
+        "phone": "2516943812"
+      },
+      {
+        "name": "SSG Paul M. Adamo",
+        "email": "paul.m.adamo@usace.army.mil",
         "phone": ""
       }
     ],
     "description": "",
-    "url": "https://sam.gov/workspace/contract/opp/cd660e2333ca4d88ad4354da407b412e/view",
+    "url": "https://sam.gov/workspace/contract/opp/cf5dbe2a2b3142a3b97bc07a7222657e/view",
     "score": 6,
     "recommendation": "PASS",
     "fit_reason": "Buying signal: solicitation"
@@ -3311,6 +3447,32 @@
     "score": 6,
     "recommendation": "PASS",
     "fit_reason": "Buying signal: sources sought"
+  },
+  {
+    "source": "SAM.gov",
+    "source_id": "c205e795801f487d856d615a3f7576fb",
+    "title": "Navigational Electronics Refresh - R/V Sashin small boat at Auke Bay Laboratory - NMFS",
+    "organization": "COMMERCE, DEPARTMENT OF.NATIONAL OCEANIC AND ATMOSPHERIC ADMINISTRATION.DEPT OF COMMERCE NOAA",
+    "office": "",
+    "country": "United States",
+    "state": "Alaska",
+    "notice_type": "Combined Synopsis/Solicitation",
+    "naics": "336612",
+    "solicitation_number": "1333MF27Q0001",
+    "deadline": "2026-12-07",
+    "published": "2026-11-27",
+    "contacts": [
+      {
+        "name": "Jason Jenks",
+        "email": "jason.jenks@noaa.gov",
+        "phone": ""
+      }
+    ],
+    "description": "",
+    "url": "https://sam.gov/workspace/contract/opp/c205e795801f487d856d615a3f7576fb/view",
+    "score": 6,
+    "recommendation": "PASS",
+    "fit_reason": "Buying signal: solicitation"
   },
   {
     "source": "SAM.gov",
@@ -3412,6 +3574,37 @@
     ],
     "description": "",
     "url": "https://sam.gov/workspace/contract/opp/b5d8c79c52a745af8aa46f962c11634f/view",
+    "score": 6,
+    "recommendation": "PASS",
+    "fit_reason": "Buying signal: solicitation"
+  },
+  {
+    "source": "SAM.gov",
+    "source_id": "b58a06c0bd3545f28e080bbb0cd86cde",
+    "title": "Veteran Outreach Advertising Service",
+    "organization": "VETERANS AFFAIRS, DEPARTMENT OF.VETERANS AFFAIRS, DEPARTMENT OF.250-NETWORK CONTRACT OFFICE 10 (36C250)",
+    "office": "",
+    "country": "United States",
+    "state": "Ohio",
+    "notice_type": "Combined Synopsis/Solicitation",
+    "naics": "541810",
+    "solicitation_number": "36C25027Q0081",
+    "deadline": "2026-12-18",
+    "published": "2026-11-27",
+    "contacts": [
+      {
+        "name": "Jennifer Nowak",
+        "email": "Jennifer.Nowak@va.gov",
+        "phone": "93726865113273"
+      },
+      {
+        "name": "Thomas Bellamy",
+        "email": "Thomas.Bellamy@va.gov",
+        "phone": ""
+      }
+    ],
+    "description": "",
+    "url": "https://sam.gov/workspace/contract/opp/b58a06c0bd3545f28e080bbb0cd86cde/view",
     "score": 6,
     "recommendation": "PASS",
     "fit_reason": "Buying signal: solicitation"
@@ -3813,6 +4006,32 @@
   },
   {
     "source": "SAM.gov",
+    "source_id": "8c5ecb5552d743f18132afe2334a34da",
+    "title": "MVE CryoCart SAVAHCS Research Service",
+    "organization": "VETERANS AFFAIRS, DEPARTMENT OF.VETERANS AFFAIRS, DEPARTMENT OF.262F NCO 22 NON VA CARE (00262F)",
+    "office": "",
+    "country": "United States",
+    "state": "Arizona",
+    "notice_type": "Combined Synopsis/Solicitation",
+    "naics": "334516",
+    "solicitation_number": "36C26227Q0168",
+    "deadline": "2026-12-09",
+    "published": "2026-11-27",
+    "contacts": [
+      {
+        "name": "Sabrina Schofield",
+        "email": "sabrina.schofield@va.gov",
+        "phone": ""
+      }
+    ],
+    "description": "",
+    "url": "https://sam.gov/workspace/contract/opp/8c5ecb5552d743f18132afe2334a34da/view",
+    "score": 6,
+    "recommendation": "PASS",
+    "fit_reason": "Buying signal: solicitation"
+  },
+  {
+    "source": "SAM.gov",
     "source_id": "89079c687b114d598a197795e8131d8f",
     "title": "CYLINDER ASSEMBLY,A_End_Item_F-16_NSN_1650011508939_PN_16VM003005-2",
     "organization": "DEPT OF DEFENSE.DEFENSE LOGISTICS AGENCY.DLA AVIATION.DLA AVIATION OKLAHOMA CITY.DLA AVIATION AT OKLAHOMA CITY, OK",
@@ -4187,6 +4406,37 @@
   },
   {
     "source": "SAM.gov",
+    "source_id": "6d27cda2895a45969252aea7f2828005",
+    "title": "CGC FLORENCE FINCH Crane Services",
+    "organization": "HOMELAND SECURITY, DEPARTMENT OF.US COAST GUARD.CG-SEA-C21",
+    "office": "",
+    "country": "United States",
+    "state": "Oregon",
+    "notice_type": "Combined Synopsis/Solicitation",
+    "naics": "238990",
+    "solicitation_number": "52000QR270001433",
+    "deadline": "2026-12-03",
+    "published": "2026-11-27",
+    "contacts": [
+      {
+        "name": "tim ford",
+        "email": "timothy.s.ford@uscg.mil",
+        "phone": ""
+      },
+      {
+        "name": "Patricia Fremming",
+        "email": "Patricia.M.Fremming@uscg.mil",
+        "phone": ""
+      }
+    ],
+    "description": "",
+    "url": "https://sam.gov/workspace/contract/opp/6d27cda2895a45969252aea7f2828005/view",
+    "score": 6,
+    "recommendation": "PASS",
+    "fit_reason": "Buying signal: solicitation"
+  },
+  {
+    "source": "SAM.gov",
     "source_id": "6a8c13f7fe97477b848b5646fd6fb30a",
     "title": "Display Panel_End_Item_KC-46_NSN_6220016533677KT_PN_12303246-1",
     "organization": "DEPT OF DEFENSE.DEFENSE LOGISTICS AGENCY.DLA AVIATION.DLA AVIATION OKLAHOMA CITY.DLA AVIATION AT OKLAHOMA CITY, OK",
@@ -4210,32 +4460,6 @@
     "score": 6,
     "recommendation": "PASS",
     "fit_reason": "Buying signal: sources sought"
-  },
-  {
-    "source": "SAM.gov",
-    "source_id": "6817a90b82ec47989835dc1620c29c8a",
-    "title": "FY27 Euclid Creek Fishway Construction ",
-    "organization": "DEPT OF DEFENSE.DEPT OF THE ARMY.US ARMY CORPS OF ENGINEERS.ENGINEER DIVISION GREAT LAKES AND OHIO.ENDIST BUFFALO.W072 ENDIST BUFFALO",
-    "office": "",
-    "country": "United States",
-    "state": "",
-    "notice_type": "Solicitation",
-    "naics": "237990",
-    "solicitation_number": "W912P427BA001",
-    "deadline": "2026-12-17",
-    "published": "2026-11-27",
-    "contacts": [
-      {
-        "name": "ANDREW HEWITT",
-        "email": "andrew.b.hewitt@usace.army.mil",
-        "phone": "7163393307"
-      }
-    ],
-    "description": "",
-    "url": "https://sam.gov/workspace/contract/opp/6817a90b82ec47989835dc1620c29c8a/view",
-    "score": 6,
-    "recommendation": "PASS",
-    "fit_reason": "Buying signal: solicitation"
   },
   {
     "source": "SAM.gov",
@@ -4457,6 +4681,32 @@
   },
   {
     "source": "SAM.gov",
+    "source_id": "513bfc9dfe514447a535f67d300a1724",
+    "title": "Diesel Tank Part Cleanings",
+    "organization": "DEPT OF DEFENSE.DEPT OF THE NAVY.NAVSEA.NAVSEA SHIPYARD.NORFOLK NAVAL SHIPYARD GF",
+    "office": "",
+    "country": "United States",
+    "state": "Virginia",
+    "notice_type": "Sources Sought",
+    "naics": "811310",
+    "solicitation_number": "N42158-27-RFPREQ-NNSY-900-0007",
+    "deadline": "2026-12-02",
+    "published": "2026-11-27",
+    "contacts": [
+      {
+        "name": "Glenda Jordan",
+        "email": "glenda.s.jordan3.civ@us.navy.mil",
+        "phone": ""
+      }
+    ],
+    "description": "",
+    "url": "https://sam.gov/workspace/contract/opp/513bfc9dfe514447a535f67d300a1724/view",
+    "score": 6,
+    "recommendation": "PASS",
+    "fit_reason": "Buying signal: sources sought"
+  },
+  {
+    "source": "SAM.gov",
     "source_id": "4e64ea68b6d54fc7a513e1fbc68c38e2",
     "title": "FUNNEL,COMMON,LABOR",
     "organization": "DEPT OF DEFENSE.DEPT OF THE NAVY.NAVSUP.NAVSUP WEAPON SYSTEMS SUPPORT.NAVSUP WSS MECHANICSBURG.NAVSUP WEAPON SYSTEMS SUPPORT MECH",
@@ -4477,32 +4727,6 @@
     ],
     "description": "",
     "url": "https://sam.gov/workspace/contract/opp/4e64ea68b6d54fc7a513e1fbc68c38e2/view",
-    "score": 6,
-    "recommendation": "PASS",
-    "fit_reason": "Buying signal: solicitation"
-  },
-  {
-    "source": "SAM.gov",
-    "source_id": "48ea5ad1ed97445e8cdad1b14dd65a70",
-    "title": "5975--INSTALLATION OF PROXIMITY SENSORS FOR  AUTOMATIC DOORS",
-    "organization": "VETERANS AFFAIRS, DEPARTMENT OF.VETERANS AFFAIRS, DEPARTMENT OF.246-NETWORK CONTRACTING OFFICE 6 (36C246)",
-    "office": "",
-    "country": "United States",
-    "state": "",
-    "notice_type": "Solicitation",
-    "naics": "238210",
-    "solicitation_number": "36C24627Q0114",
-    "deadline": "2026-11-27",
-    "published": "2026-11-27",
-    "contacts": [
-      {
-        "name": "Lakeva P Cousins",
-        "email": "Lakeva.Cousins@va.gov",
-        "phone": ""
-      }
-    ],
-    "description": "",
-    "url": "https://sam.gov/workspace/contract/opp/48ea5ad1ed97445e8cdad1b14dd65a70/view",
     "score": 6,
     "recommendation": "PASS",
     "fit_reason": "Buying signal: solicitation"
@@ -4534,6 +4758,37 @@
     ],
     "description": "",
     "url": "https://sam.gov/workspace/contract/opp/403c60535e6b48f6a9d15ffaf7a4086c/view",
+    "score": 6,
+    "recommendation": "PASS",
+    "fit_reason": "Buying signal: solicitation"
+  },
+  {
+    "source": "SAM.gov",
+    "source_id": "387e13e547a74445b9679abe7d29f0c4",
+    "title": "Blood Bank Reagents, Consumables, and Automated Analyzer (Reagent Rental) – VA Pittsburgh Healthcare System",
+    "organization": "VETERANS AFFAIRS, DEPARTMENT OF.VETERANS AFFAIRS, DEPARTMENT OF.244-NETWORK CONTRACT OFFICE 4 (36C244)",
+    "office": "",
+    "country": "United States",
+    "state": "Pennsylvania",
+    "notice_type": "Combined Synopsis/Solicitation",
+    "naics": "325413",
+    "solicitation_number": "36C24427Q0090",
+    "deadline": "2026-12-11",
+    "published": "2026-11-27",
+    "contacts": [
+      {
+        "name": "Onaje Tyler",
+        "email": "onaje.tyler@va.gov",
+        "phone": ""
+      },
+      {
+        "name": "Keri Hester",
+        "email": "keri.hester1@va.com",
+        "phone": "4126512984"
+      }
+    ],
+    "description": "",
+    "url": "https://sam.gov/workspace/contract/opp/387e13e547a74445b9679abe7d29f0c4/view",
     "score": 6,
     "recommendation": "PASS",
     "fit_reason": "Buying signal: solicitation"
@@ -4618,32 +4873,6 @@
   },
   {
     "source": "SAM.gov",
-    "source_id": "30de356aca6d4b949824c2287106a0b2",
-    "title": "Carpet Installation, LED light installation, and Painting",
-    "organization": "DEPT OF DEFENSE.DEPT OF THE NAVY.NAVSUP.NAVSUP GLOBAL LOGISTICS SUPPORT.NAVSUP FLC NORFOLK.NAVSUP FLT LOG CTR NORFOLK",
-    "office": "",
-    "country": "United States",
-    "state": "Virginia",
-    "notice_type": "Solicitation",
-    "naics": "238330",
-    "solicitation_number": "N0018926QL038",
-    "deadline": "2026-12-07",
-    "published": "2026-11-27",
-    "contacts": [
-      {
-        "name": "Brittany Simmons",
-        "email": "brittany.s.simmons3.civ@us.navy.mil",
-        "phone": ""
-      }
-    ],
-    "description": "",
-    "url": "https://sam.gov/workspace/contract/opp/30de356aca6d4b949824c2287106a0b2/view",
-    "score": 6,
-    "recommendation": "PASS",
-    "fit_reason": "Buying signal: solicitation"
-  },
-  {
-    "source": "SAM.gov",
     "source_id": "30ba00f705114cc1b62c8db8fb9983ea",
     "title": "52000QR270001238- CGC Tampa Vane Axial Fan Rebuild & Reconditioning",
     "organization": "HOMELAND SECURITY, DEPARTMENT OF.US COAST GUARD.CG-SEA-C21",
@@ -4690,6 +4919,32 @@
     ],
     "description": "",
     "url": "https://sam.gov/workspace/contract/opp/2fdf6670645d41d79a9fb04c39e5a8ff/view",
+    "score": 6,
+    "recommendation": "PASS",
+    "fit_reason": "Buying signal: solicitation"
+  },
+  {
+    "source": "SAM.gov",
+    "source_id": "25167cab36ad489a8c8ae4ec7b508517",
+    "title": "NTX Energy Center Heaters, Fans & Light Replacement",
+    "organization": "VETERANS AFFAIRS, DEPARTMENT OF.VETERANS AFFAIRS, DEPARTMENT OF.257-NETWORK CONTRACT OFFICE 17 (36C257)",
+    "office": "",
+    "country": "United States",
+    "state": "Texas",
+    "notice_type": "Combined Synopsis/Solicitation",
+    "naics": "238220",
+    "solicitation_number": "36C25727Q0053",
+    "deadline": "2026-12-14",
+    "published": "2026-11-27",
+    "contacts": [
+      {
+        "name": "Marcellus Jackson",
+        "email": "marcellus.jackson@va.gov",
+        "phone": "2106946384"
+      }
+    ],
+    "description": "",
+    "url": "https://sam.gov/workspace/contract/opp/25167cab36ad489a8c8ae4ec7b508517/view",
     "score": 6,
     "recommendation": "PASS",
     "fit_reason": "Buying signal: solicitation"
@@ -22736,32 +22991,6 @@
   },
   {
     "source": "SAM.gov",
-    "source_id": "ed95b32c63024e6ba68c3f28155bac94",
-    "title": "POWER UNIT,GAS TURB",
-    "organization": "DEPT OF DEFENSE.DEFENSE LOGISTICS AGENCY.DLA AVIATION.DLA AVIATION PHILADELPHIA.DLA AVIATION AT PHILADELPHIA, PA",
-    "office": "",
-    "country": "United States",
-    "state": "",
-    "notice_type": "Solicitation",
-    "naics": "333611",
-    "solicitation_number": "SPRPA127QWA48",
-    "deadline": "2026-11-27",
-    "published": "2026-11-25",
-    "contacts": [
-      {
-        "name": "Telephone: 2676608638",
-        "email": "GINA.PALUMBO@DLA.MIL",
-        "phone": ""
-      }
-    ],
-    "description": "",
-    "url": "https://sam.gov/workspace/contract/opp/ed95b32c63024e6ba68c3f28155bac94/view",
-    "score": 6,
-    "recommendation": "PASS",
-    "fit_reason": "Buying signal: solicitation"
-  },
-  {
-    "source": "SAM.gov",
     "source_id": "ec94ee5c8f804581ac1a061814b665fb",
     "title": "BILLINGS MONTANA FIRE FIGHTER HOUSING DOI USWFS",
     "organization": "INTERIOR, DEPARTMENT OF THE.DEPARTMENTAL OFFICES.US WILDLAND FIRE CONTRACTING ACTIVITY",
@@ -24069,32 +24298,6 @@
   },
   {
     "source": "SAM.gov",
-    "source_id": "cac8b3ed1c6c4c858217ba217cd6d861",
-    "title": "AIR DATA MODULE",
-    "organization": "DEPT OF DEFENSE.DEFENSE LOGISTICS AGENCY.DLA AVIATION.DLA AVIATION PHILADELPHIA.DLA AVIATION AT PHILADELPHIA, PA",
-    "office": "",
-    "country": "United States",
-    "state": "",
-    "notice_type": "Solicitation",
-    "naics": "334511",
-    "solicitation_number": "SPRPA127QWA49",
-    "deadline": "2026-11-27",
-    "published": "2026-11-25",
-    "contacts": [
-      {
-        "name": "Telephone: 2676608638",
-        "email": "GINA.PALUMBO@DLA.MIL",
-        "phone": ""
-      }
-    ],
-    "description": "",
-    "url": "https://sam.gov/workspace/contract/opp/cac8b3ed1c6c4c858217ba217cd6d861/view",
-    "score": 6,
-    "recommendation": "PASS",
-    "fit_reason": "Buying signal: solicitation"
-  },
-  {
-    "source": "SAM.gov",
     "source_id": "ca4333fcb56a4405a351b07a2d753ecc",
     "title": "ES BLDG 1624 RM 203 VTC & A/V Upgrade - FY27 RFQ",
     "organization": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AIR FORCE LIFE CYCLE MANAGEMENT CENTER.FA2835 AFLCMC HANSCOM PZI",
@@ -24546,919 +24749,52 @@
   },
   {
     "source": "SAM.gov",
-    "source_id": "bd164ccefd7748a3939367f6149112fb",
-    "title": "One or two solid-state RF generator or RF power amplifier system(s)",
-    "organization": "ENERGY, DEPARTMENT OF.ENERGY, DEPARTMENT OF.ORNL UT-BATTELLE LLC-DOE CONTRACTOR",
-    "office": "",
-    "country": "United States",
-    "state": "Tennessee",
-    "notice_type": "Combined Synopsis/Solicitation",
-    "naics": "335999",
-    "solicitation_number": "PR509345",
-    "deadline": "2026-12-09",
-    "published": "2026-11-25",
-    "contacts": [
-      {
-        "name": "Jacob Spradley",
-        "email": "spradleyjv@ornl.gov",
-        "phone": ""
-      }
-    ],
-    "description": "",
-    "url": "https://sam.gov/workspace/contract/opp/bd164ccefd7748a3939367f6149112fb/view",
-    "score": 6,
-    "recommendation": "PASS",
-    "fit_reason": "Buying signal: solicitation"
-  },
-  {
-    "source": "SAM.gov",
-    "source_id": "bc87279658ff4d6f9aea0a32e72625b5",
-    "title": "ICP, VA ASSY, TI16",
-    "organization": "DEPT OF DEFENSE.DEPT OF THE NAVY.NAVSUP.NAVSUP WEAPON SYSTEMS SUPPORT.NAVSUP WSS MECHANICSBURG.NAVSUP WEAPON SYSTEMS SUPPORT MECH",
-    "office": "",
-    "country": "United States",
-    "state": "",
-    "notice_type": "Solicitation",
-    "naics": "335312",
-    "solicitation_number": "N0010426QYA8F",
-    "deadline": "2027-01-07",
-    "published": "2026-11-25",
-    "contacts": [
-      {
-        "name": "Telephone: 7176055937",
-        "email": "TYREESE.C.SMITH.CIV@US.NAVY.MIL",
-        "phone": ""
-      }
-    ],
-    "description": "",
-    "url": "https://sam.gov/workspace/contract/opp/bc87279658ff4d6f9aea0a32e72625b5/view",
-    "score": 6,
-    "recommendation": "PASS",
-    "fit_reason": "Buying signal: solicitation"
-  },
-  {
-    "source": "SAM.gov",
-    "source_id": "bc6bbbfa731b46a799f4a9cc38d4d002",
-    "title": "Target Service Shield Machining and Welding",
-    "organization": "ENERGY, DEPARTMENT OF.ENERGY, DEPARTMENT OF.ORNL UT-BATTELLE LLC-DOE CONTRACTOR",
-    "office": "",
-    "country": "United States",
-    "state": "Tennessee",
-    "notice_type": "Solicitation",
-    "naics": "332999",
-    "solicitation_number": "PR444575",
-    "deadline": "2026-12-08",
-    "published": "2026-11-25",
-    "contacts": [
-      {
-        "name": "Misty Magill",
-        "email": "magillm@ornl.gov",
-        "phone": "8653411872"
-      }
-    ],
-    "description": "",
-    "url": "https://sam.gov/workspace/contract/opp/bc6bbbfa731b46a799f4a9cc38d4d002/view",
-    "score": 6,
-    "recommendation": "PASS",
-    "fit_reason": "Buying signal: solicitation"
-  },
-  {
-    "source": "SAM.gov",
-    "source_id": "bb9341ad72a847afb7f7f6d5b3c92f74",
-    "title": "Underwater Inspection in Lieu of Dry-docking (UWILD) and Hull Cleaning of the USNS SACAGAWEA",
-    "organization": "DEPT OF DEFENSE.DEPT OF THE NAVY.MSC.MSC HQS.MSCHQ NORFOLK",
-    "office": "",
-    "country": "United States",
-    "state": "Guam",
-    "notice_type": "Solicitation",
-    "naics": "488390",
-    "solicitation_number": "N3220527Q7018",
-    "deadline": "2026-11-30",
-    "published": "2026-11-25",
-    "contacts": [
-      {
-        "name": "Shelby Beach",
-        "email": "shelby.m.beach.civ@us.navy.mil",
-        "phone": ""
-      }
-    ],
-    "description": "",
-    "url": "https://sam.gov/workspace/contract/opp/bb9341ad72a847afb7f7f6d5b3c92f74/view",
-    "score": 6,
-    "recommendation": "PASS",
-    "fit_reason": "Buying signal: solicitation"
-  },
-  {
-    "source": "SAM.gov",
-    "source_id": "bb2ed0efa17940d29db3f6802fc37bc2",
-    "title": "Dual Heat Laminator",
-    "organization": "ENERGY, DEPARTMENT OF.ENERGY, DEPARTMENT OF.ORNL UT-BATTELLE LLC-DOE CONTRACTOR",
-    "office": "",
-    "country": "United States",
-    "state": "Tennessee",
-    "notice_type": "Combined Synopsis/Solicitation",
-    "naics": "333248",
-    "solicitation_number": "RFQ518918",
-    "deadline": "2026-12-05",
-    "published": "2026-11-25",
-    "contacts": [
-      {
-        "name": "Brittany Waring",
-        "email": "waringbc@ornl.gov",
-        "phone": ""
-      }
-    ],
-    "description": "",
-    "url": "https://sam.gov/workspace/contract/opp/bb2ed0efa17940d29db3f6802fc37bc2/view",
-    "score": 6,
-    "recommendation": "PASS",
-    "fit_reason": "Buying signal: solicitation"
-  },
-  {
-    "source": "SAM.gov",
-    "source_id": "ba87aeadaec64a19bd4e6e0dcc925e5c",
-    "title": "ID FLAP CLEAR 4783(1), Dent Bridge Road Improvements",
-    "organization": "TRANSPORTATION, DEPARTMENT OF.FEDERAL HIGHWAY ADMINISTRATION.690567 WESTERN FEDERAL LANDS DIV",
-    "office": "",
-    "country": "United States",
-    "state": "Idaho",
-    "notice_type": "Solicitation",
-    "naics": "237310",
-    "solicitation_number": "69056726R000009",
-    "deadline": "2026-12-08",
-    "published": "2026-11-25",
-    "contacts": [
-      {
-        "name": "Contracts G. Office",
-        "email": "wfl.contracts@dot.gov",
-        "phone": "3606197520"
-      }
-    ],
-    "description": "",
-    "url": "https://sam.gov/workspace/contract/opp/ba87aeadaec64a19bd4e6e0dcc925e5c/view",
-    "score": 6,
-    "recommendation": "PASS",
-    "fit_reason": "Buying signal: solicitation"
-  },
-  {
-    "source": "SAM.gov",
-    "source_id": "b9f04cacd4fa40c48f8157b9c7985eb6",
-    "title": "Lavatory Counter",
-    "organization": "DEPT OF DEFENSE.DEPT OF THE NAVY.NAVSUP.NAVSUP GLOBAL LOGISTICS SUPPORT.NAVSUP FLC PUGET SOUND.NAVSUP FLT LOG CTR PUGET SOUND",
-    "office": "",
-    "country": "United States",
-    "state": "",
-    "notice_type": "Solicitation",
-    "naics": "332999",
-    "solicitation_number": "N0040627Q0020",
-    "deadline": "2026-12-07",
-    "published": "2026-11-25",
-    "contacts": [
-      {
-        "name": "Homer Shoup",
-        "email": "homer.o.shoup.civ@us.navy.mil",
-        "phone": ""
-      },
-      {
-        "name": "LILY NGUYEN",
-        "email": "lily.p.nguyen.civ@us.navy.mil",
-        "phone": ""
-      }
-    ],
-    "description": "",
-    "url": "https://sam.gov/workspace/contract/opp/b9f04cacd4fa40c48f8157b9c7985eb6/view",
-    "score": 6,
-    "recommendation": "PASS",
-    "fit_reason": "Buying signal: solicitation"
-  },
-  {
-    "source": "SAM.gov",
-    "source_id": "b9e30c21db2d46f380e0177db5292e79",
-    "title": "W9123727QA005 Walhonding Mowing and Maintenance IDIQ 2027-2031",
-    "organization": "DEPT OF DEFENSE.DEPT OF THE ARMY.US ARMY CORPS OF ENGINEERS.ENGINEER DIVISION GREAT LAKES AND OHIO.ENDIST HUNTINGTON.W072 ENDIST HUNTINGTON",
-    "office": "",
-    "country": "United States",
-    "state": "",
-    "notice_type": "Combined Synopsis/Solicitation",
-    "naics": "561730",
-    "solicitation_number": "W9123727QA005",
-    "deadline": "2026-12-07",
-    "published": "2026-11-25",
-    "contacts": [
-      {
-        "name": "Kaylee Mills",
-        "email": "kaylee.p.mills@usace.army.mil",
-        "phone": "3043996965"
-      },
-      {
-        "name": "Bret Foley",
-        "email": "Bret.R.Foley@usace.army.mil",
-        "phone": "3043995169"
-      }
-    ],
-    "description": "",
-    "url": "https://sam.gov/workspace/contract/opp/b9e30c21db2d46f380e0177db5292e79/view",
-    "score": 6,
-    "recommendation": "PASS",
-    "fit_reason": "Buying signal: solicitation"
-  },
-  {
-    "source": "SAM.gov",
-    "source_id": "b93e09748e7b4c9a9b951196a81ed484",
-    "title": "36C78627Q0039 Universal Waste Services for Ft Sam Houston National  Cemetery",
-    "organization": "VETERANS AFFAIRS, DEPARTMENT OF.VETERANS AFFAIRS, DEPARTMENT OF.NATIONAL CEMETERY ADMIN (36C786)",
-    "office": "",
-    "country": "United States",
-    "state": "",
-    "notice_type": "Solicitation",
-    "naics": "562112",
-    "solicitation_number": "36C78627Q0039",
-    "deadline": "2026-12-07",
-    "published": "2026-11-25",
-    "contacts": [
-      {
-        "name": "Lindsey  Paniagua-Houston",
-        "email": "Lindsey.Paniagua-Houston@va.gov",
-        "phone": ""
-      }
-    ],
-    "description": "",
-    "url": "https://sam.gov/workspace/contract/opp/b93e09748e7b4c9a9b951196a81ed484/view",
-    "score": 6,
-    "recommendation": "PASS",
-    "fit_reason": "Buying signal: solicitation"
-  },
-  {
-    "source": "SAM.gov",
-    "source_id": "b7f7b8798fbf4534947a8c9a9151e425",
-    "title": "AS Class Rudder Stock Sleeve",
-    "organization": "DEPT OF DEFENSE.DEPT OF THE NAVY.MSC.MSC HQS.MSCHQ NORFOLK",
-    "office": "",
-    "country": "United States",
-    "state": "",
-    "notice_type": "Solicitation",
-    "naics": "331529",
-    "solicitation_number": "N3220527Q7040",
-    "deadline": "2026-12-09",
-    "published": "2026-11-25",
-    "contacts": [
-      {
-        "name": "Colin Edick",
-        "email": "colin.j.edick.civ@us.navy.mil",
-        "phone": "5642261232"
-      }
-    ],
-    "description": "",
-    "url": "https://sam.gov/workspace/contract/opp/b7f7b8798fbf4534947a8c9a9151e425/view",
-    "score": 6,
-    "recommendation": "PASS",
-    "fit_reason": "Buying signal: solicitation"
-  },
-  {
-    "source": "SAM.gov",
-    "source_id": "b5f05f34bc584286bdbea8336881db74",
-    "title": "Solicitation - Multiple-Award IDIQ – Hotel Accommodation and Related Hospitality Services",
-    "organization": "STATE, DEPARTMENT OF.STATE, DEPARTMENT OF.US EMBASSY JAKARTA",
-    "office": "",
-    "country": "United States",
-    "state": "",
-    "notice_type": "Solicitation",
-    "naics": "721110",
-    "solicitation_number": "191D3227R0005",
-    "deadline": "2026-12-10",
-    "published": "2026-11-25",
-    "contacts": [
-      {
-        "name": "Jeramee Rice",
-        "email": "Jakartapcubidding@state.gov",
-        "phone": "622150831000"
-      },
-      {
-        "name": "Desi Iskasari C.",
-        "email": "JakartaPCUBidding@state.gov",
-        "phone": "622150831000"
-      }
-    ],
-    "description": "",
-    "url": "https://sam.gov/workspace/contract/opp/b5f05f34bc584286bdbea8336881db74/view",
-    "score": 6,
-    "recommendation": "PASS",
-    "fit_reason": "Buying signal: solicitation"
-  },
-  {
-    "source": "SAM.gov",
-    "source_id": "b52a73f50b9542969993f8befbfb2a03",
-    "title": "BULKHEAD FITTING",
-    "organization": "DEPT OF DEFENSE.DEFENSE LOGISTICS AGENCY.DLA MARITIME.DLA MARITIME SHIPYARDS.DLA MARITIME - PEARL HARBOR",
-    "office": "",
-    "country": "United States",
-    "state": "",
-    "notice_type": "Solicitation",
-    "naics": "332996",
-    "solicitation_number": "SPMYM427Q3097",
-    "deadline": "2026-12-02",
-    "published": "2026-11-25",
-    "contacts": [
-      {
-        "name": "AMANDA RAGSDALE",
-        "email": "AMANDA.N.RAGSDALE.CIV@US.NAVY.MIL",
-        "phone": "8086032841"
-      }
-    ],
-    "description": "",
-    "url": "https://sam.gov/workspace/contract/opp/b52a73f50b9542969993f8befbfb2a03/view",
-    "score": 6,
-    "recommendation": "PASS",
-    "fit_reason": "Buying signal: solicitation"
-  },
-  {
-    "source": "SAM.gov",
-    "source_id": "b404b3f581024898bf57241a41ed4269",
-    "title": "13--AIR FLASK,TORPEDO",
-    "organization": "DEPT OF DEFENSE.DEPT OF THE NAVY.NAVSUP.NAVSUP WEAPON SYSTEMS SUPPORT.NAVSUP WSS MECHANICSBURG.NAVSUP WEAPON SYSTEMS SUPPORT MECH",
-    "office": "",
-    "country": "United States",
-    "state": "",
-    "notice_type": "Solicitation",
-    "naics": "334511",
-    "solicitation_number": "N0010423QUC40",
-    "deadline": "2026-12-15",
-    "published": "2026-11-25",
-    "contacts": [
-      {
-        "name": "Telephone: 7712290511",
-        "email": "AARON.D.MCFEE.CIV@US.NAVY.MIL",
-        "phone": ""
-      }
-    ],
-    "description": "",
-    "url": "https://sam.gov/workspace/contract/opp/b404b3f581024898bf57241a41ed4269/view",
-    "score": 6,
-    "recommendation": "PASS",
-    "fit_reason": "Buying signal: solicitation"
-  },
-  {
-    "source": "SAM.gov",
-    "source_id": "b30b6cf565e04adca9fc30e9884c755f",
-    "title": "53--O-RING",
-    "organization": "DEPT OF DEFENSE.DEFENSE LOGISTICS AGENCY.DLA MARITIME.DLA MARITIME COLUMBUS.DLA WEAPONS SUPPORT",
-    "office": "",
-    "country": "United States",
-    "state": "",
-    "notice_type": "Combined Synopsis/Solicitation",
-    "naics": "332618",
-    "solicitation_number": "SPE7M427Q0187",
-    "deadline": "2026-12-04",
-    "published": "2026-11-25",
-    "contacts": [
-      {
-        "name": "Questions regarding this solicitation should be emailed to the buyer listed in block 5 of the solicitation document which can be found under the Additional Information link.\nIf the Additional Information link does not work, please go to https://www.dibbs.bsm.dla.mil/Solicitations/ and type the solicitation number in the Global Search box.\n",
-        "email": "DibbsBSM@dla.mil",
-        "phone": ""
-      }
-    ],
-    "description": "",
-    "url": "https://sam.gov/workspace/contract/opp/b30b6cf565e04adca9fc30e9884c755f/view",
-    "score": 6,
-    "recommendation": "PASS",
-    "fit_reason": "Buying signal: solicitation"
-  },
-  {
-    "source": "SAM.gov",
-    "source_id": "b2ce9b0e93004f6db7b70f759559b556",
-    "title": "Wheel, End Assembly",
-    "organization": "DEPT OF DEFENSE.DEFENSE LOGISTICS AGENCY.DLA LAND.DLA LAND WARREN MICHIGAN.DLA LAND WARREN",
-    "office": "",
-    "country": "United States",
-    "state": "",
-    "notice_type": "Sources Sought",
-    "naics": "336390",
-    "solicitation_number": "SPRDL127RA082",
-    "deadline": "2026-12-10",
-    "published": "2026-11-25",
-    "contacts": [
-      {
-        "name": "Angela Saunders",
-        "email": "angela.saunders@dla.mil",
-        "phone": "5862301017"
-      }
-    ],
-    "description": "",
-    "url": "https://sam.gov/workspace/contract/opp/b2ce9b0e93004f6db7b70f759559b556/view",
-    "score": 6,
-    "recommendation": "PASS",
-    "fit_reason": "Buying signal: sources sought"
-  },
-  {
-    "source": "SAM.gov",
-    "source_id": "b1e6af0290e14c08bfdd017e437da2e3",
-    "title": "43--PUMP UNIT,CENTRIFUG, IN REPAIR/MODIFICATION OF",
-    "organization": "DEPT OF DEFENSE.DEPT OF THE NAVY.NAVSUP.NAVSUP WEAPON SYSTEMS SUPPORT.NAVSUP WSS MECHANICSBURG.NAVSUP WEAPON SYSTEMS SUPPORT MECH",
-    "office": "",
-    "country": "United States",
-    "state": "",
-    "notice_type": "Solicitation",
-    "naics": "333914",
-    "solicitation_number": "N0010426RTB38",
-    "deadline": "2026-12-15",
-    "published": "2026-11-25",
-    "contacts": [
-      {
-        "name": "Telephone: 7712290456",
-        "email": "ALISON.E.HARPER.CIV@US.NAVY.MIL",
-        "phone": ""
-      }
-    ],
-    "description": "",
-    "url": "https://sam.gov/workspace/contract/opp/b1e6af0290e14c08bfdd017e437da2e3/view",
-    "score": 6,
-    "recommendation": "PASS",
-    "fit_reason": "Buying signal: solicitation"
-  },
-  {
-    "source": "SAM.gov",
-    "source_id": "b1de026a44694a5798f3a92df8571197",
-    "title": "Marketplace for Acquisition of Professional Services (MAPS)",
-    "organization": "DEPT OF DEFENSE.DEPT OF THE ARMY.W6QK ACC-APG",
-    "office": "",
-    "country": "United States",
-    "state": "Maryland",
-    "notice_type": "Solicitation",
-    "naics": "541330",
-    "solicitation_number": "W15P7T-26-R-A006",
-    "deadline": "2026-12-14",
-    "published": "2026-11-25",
-    "contacts": [
-      {
-        "name": "ACC-APG Email Box",
-        "email": "usarmy.apg.acc.mbx.acc-apg-maps-contracting-office@army.mil",
-        "phone": ""
-      }
-    ],
-    "description": "",
-    "url": "https://sam.gov/workspace/contract/opp/b1de026a44694a5798f3a92df8571197/view",
-    "score": 6,
-    "recommendation": "PASS",
-    "fit_reason": "Buying signal: solicitation"
-  },
-  {
-    "source": "SAM.gov",
-    "source_id": "b1dc0f7d1e2f4525a271f894957de949",
-    "title": "Area of Interest (AOI) for Next Generation Enterprise Identity, Credential, and Access Management (E-ICAM) Prototype Other Transaction (OT)",
-    "organization": "DEPT OF DEFENSE.DEFENSE INFORMATION SYSTEMS AGENCY (DISA).IT CONTRACTING DIVISION - PL84",
-    "office": "",
-    "country": "United States",
-    "state": "Maryland",
-    "notice_type": "Solicitation",
-    "naics": "541519",
-    "solicitation_number": "DISA-OTA-27-R-ICAM",
-    "deadline": "2026-12-07",
-    "published": "2026-11-25",
-    "contacts": [
-      {
-        "name": "DITCO OTA Mailbox",
-        "email": "disa.scott.ditco.mbx.ps84-other-transaction-authority@mail.mil",
-        "phone": ""
-      }
-    ],
-    "description": "",
-    "url": "https://sam.gov/workspace/contract/opp/b1dc0f7d1e2f4525a271f894957de949/view",
-    "score": 6,
-    "recommendation": "PASS",
-    "fit_reason": "Buying signal: solicitation"
-  },
-  {
-    "source": "SAM.gov",
-    "source_id": "b11736ae615948ab832e4a2dba4cc144",
-    "title": "line shaft bearing assembly",
-    "organization": "DEPT OF DEFENSE.DEPT OF THE NAVY.NAVSUP.NAVSUP GLOBAL LOGISTICS SUPPORT.NAVSUP FLC NORFOLK.NAVSUP FLT LOG CTR NORFOLK",
-    "office": "",
-    "country": "United States",
-    "state": "Virginia",
-    "notice_type": "Combined Synopsis/Solicitation",
-    "naics": "332991",
-    "solicitation_number": "N0018927QL035 ",
-    "deadline": "2026-12-01",
-    "published": "2026-11-25",
-    "contacts": [
-      {
-        "name": "Sarah Walsh",
-        "email": "sarah.e.walsh25.civ@us.navy.mil",
-        "phone": "7036736571"
-      },
-      {
-        "name": "Christopher Whiteside",
-        "email": "christopher.d.whiteside2.civ@us.navy.mil",
-        "phone": "7574430780"
-      }
-    ],
-    "description": "",
-    "url": "https://sam.gov/workspace/contract/opp/b11736ae615948ab832e4a2dba4cc144/view",
-    "score": 6,
-    "recommendation": "PASS",
-    "fit_reason": "Buying signal: solicitation"
-  },
-  {
-    "source": "SAM.gov",
-    "source_id": "b02ae796df0a4da1ba4451f36720fc2b",
-    "title": "H399--Vertical Lift Inspection Services  VA Sierra Nevada Healthcare System",
-    "organization": "VETERANS AFFAIRS, DEPARTMENT OF.VETERANS AFFAIRS, DEPARTMENT OF.261-NETWORK CONTRACT OFFICE 21 (36C261)",
-    "office": "",
-    "country": "United States",
-    "state": "Nevada",
-    "notice_type": "Solicitation",
-    "naics": "541350",
-    "solicitation_number": "36C26127Q0191",
-    "deadline": "2026-12-09",
-    "published": "2026-11-25",
-    "contacts": [
-      {
-        "name": "Derrick Hill",
-        "email": "derrick.hill1@va.gov",
-        "phone": ""
-      }
-    ],
-    "description": "",
-    "url": "https://sam.gov/workspace/contract/opp/b02ae796df0a4da1ba4451f36720fc2b/view",
-    "score": 6,
-    "recommendation": "PASS",
-    "fit_reason": "Buying signal: solicitation"
-  },
-  {
-    "source": "SAM.gov",
-    "source_id": "af5c5ffde5684e04975d99f9b7f685e2",
-    "title": "PANEL,CONTROL,ELECT",
-    "organization": "DEPT OF DEFENSE.DEFENSE LOGISTICS AGENCY.DLA AVIATION.DLA AVIATION PHILADELPHIA.DLA AVIATION AT PHILADELPHIA, PA",
-    "office": "",
-    "country": "United States",
-    "state": "",
-    "notice_type": "Solicitation",
-    "naics": "335312",
-    "solicitation_number": "SPRPA127QYA60",
-    "deadline": "2026-12-28",
-    "published": "2026-11-25",
-    "contacts": [
-      {
-        "name": "Telephone: 4457376389",
-        "email": "AMANDA.BIRD@DLA.MIL",
-        "phone": ""
-      }
-    ],
-    "description": "",
-    "url": "https://sam.gov/workspace/contract/opp/af5c5ffde5684e04975d99f9b7f685e2/view",
-    "score": 6,
-    "recommendation": "PASS",
-    "fit_reason": "Buying signal: solicitation"
-  },
-  {
-    "source": "SAM.gov",
-    "source_id": "aebdb0d41a104cacbfb487cf3ebc3580",
-    "title": "DTRA DOCUSERIES",
-    "organization": "DEPT OF DEFENSE.DEFENSE THREAT REDUCTION AGENCY (DTRA).DEFENSE THREAT REDUCTION AGENCY",
-    "office": "",
-    "country": "United States",
-    "state": "Virginia",
-    "notice_type": "Combined Synopsis/Solicitation",
-    "naics": "512110",
-    "solicitation_number": "HDTRA127R0011",
-    "deadline": "2026-11-30",
-    "published": "2026-11-25",
-    "contacts": [
-      {
-        "name": "DTRA Contract Opps",
-        "email": "dtra.belvoir.al.mbx.dtra-contract-opps@mail.mil",
-        "phone": ""
-      },
-      {
-        "name": "Cornelia Ruffin",
-        "email": "dtra.belvoir.al.mbx.dtra-contract-opps@mail.mil",
-        "phone": ""
-      }
-    ],
-    "description": "",
-    "url": "https://sam.gov/workspace/contract/opp/aebdb0d41a104cacbfb487cf3ebc3580/view",
-    "score": 6,
-    "recommendation": "PASS",
-    "fit_reason": "Buying signal: solicitation"
-  },
-  {
-    "source": "SAM.gov",
-    "source_id": "ad81e59bf5b14e779eb3eb01933e52ec",
-    "title": "NH100 Engine Control Unit Replacement",
-    "organization": "DEPT OF DEFENSE.DEPT OF THE NAVY.NAVFAC.NAVFAC ATLANTIC CMD.NAVFAC MID-ATLANTIC.NAVFACSYSCOM MID-ATLANTIC",
-    "office": "",
-    "country": "United States",
-    "state": "North Carolina",
-    "notice_type": "Combined Synopsis/Solicitation",
-    "naics": "236220",
-    "solicitation_number": "N4008527R9006",
-    "deadline": "2026-12-04",
-    "published": "2026-11-25",
-    "contacts": [
-      {
-        "name": "Jessica Huebner",
-        "email": "jessica.r.huebner.civ@us.navy.mil",
-        "phone": "9104515892"
-      },
-      {
-        "name": "Lauren Loconto",
-        "email": "lauren.f.loconto.civ@us.navy.mil",
-        "phone": "9104515916"
-      }
-    ],
-    "description": "",
-    "url": "https://sam.gov/workspace/contract/opp/ad81e59bf5b14e779eb3eb01933e52ec/view",
-    "score": 6,
-    "recommendation": "PASS",
-    "fit_reason": "Buying signal: solicitation"
-  },
-  {
-    "source": "SAM.gov",
-    "source_id": "ad470dadb4fc4cd397aa7ea9f83ab393",
-    "title": "Solicitation for IDIQ Contract for Biology Testing of DM",
-    "organization": "DEPT OF DEFENSE.DEPT OF THE ARMY.US ARMY CORPS OF ENGINEERS.ENGINEER DIVISION NORTH ATLANTIC.ENDIST NEW YORK.W2SD ENDIST NEW YORK",
-    "office": "",
-    "country": "United States",
-    "state": "",
-    "notice_type": "Solicitation",
-    "naics": "541519",
-    "solicitation_number": "W912DS27BA003",
-    "deadline": "2026-12-08",
-    "published": "2026-11-25",
-    "contacts": [
-      {
-        "name": "Denisse Soto",
-        "email": "Denisse.M.Soto@usace.army.mil",
-        "phone": "917-790-8177"
-      }
-    ],
-    "description": "",
-    "url": "https://sam.gov/workspace/contract/opp/ad470dadb4fc4cd397aa7ea9f83ab393/view",
-    "score": 6,
-    "recommendation": "PASS",
-    "fit_reason": "Buying signal: solicitation"
-  },
-  {
-    "source": "SAM.gov",
-    "source_id": "ad1fec4037b0413f82b10fc877ccc068",
-    "title": "SOURCES SOUGHT Heavy-Duty Explosion-Proof Electric Walkie Pallet Truck (12,000 lb Capacity)",
-    "organization": "DEPT OF DEFENSE.DEPT OF THE ARMY.AMC.ACC.ACC-CTRS.ACC-APG.W6QK ACC-APG CONT CT TYAD OFC",
-    "office": "",
-    "country": "United States",
-    "state": "Pennsylvania",
-    "notice_type": "Sources Sought",
-    "naics": "333924",
-    "solicitation_number": "058886",
-    "deadline": "2026-12-01",
-    "published": "2026-11-25",
-    "contacts": [
-      {
-        "name": "Forrest Green",
-        "email": "forrest.l.green8.civ@army.mil",
-        "phone": "5706159536"
-      }
-    ],
-    "description": "",
-    "url": "https://sam.gov/workspace/contract/opp/ad1fec4037b0413f82b10fc877ccc068/view",
-    "score": 6,
-    "recommendation": "PASS",
-    "fit_reason": "Buying signal: sources sought"
-  },
-  {
-    "source": "SAM.gov",
-    "source_id": "acd5958e65f34cbeb75248184caeb4ea",
-    "title": "RPMS EHR ONC Certified Health IT: Certification/Consultation",
-    "organization": "HEALTH AND HUMAN SERVICES, DEPARTMENT OF.INDIAN HEALTH SERVICE.DIVISION OF ACQUISITIONS POLICY HQ",
-    "office": "",
-    "country": "United States",
-    "state": "Maryland",
-    "notice_type": "Solicitation",
-    "naics": "541380",
-    "solicitation_number": "75H70427Q00007",
-    "deadline": "2026-12-01",
-    "published": "2026-11-25",
-    "contacts": [
-      {
-        "name": "Javier Medina-Velazquez",
-        "email": "javier.medina-velazquez@ihs.gov",
-        "phone": ""
-      }
-    ],
-    "description": "",
-    "url": "https://sam.gov/workspace/contract/opp/acd5958e65f34cbeb75248184caeb4ea/view",
-    "score": 6,
-    "recommendation": "PASS",
-    "fit_reason": "Buying signal: solicitation"
-  },
-  {
-    "source": "SAM.gov",
-    "source_id": "ac68fb2f6900490d92aa4cdb9060cf67",
-    "title": "Helium Purifier",
-    "organization": "ENERGY, DEPARTMENT OF.ENERGY, DEPARTMENT OF.BROOKHAVEN NATL LAB -DOE CONTRACTOR",
-    "office": "",
-    "country": "United States",
-    "state": "New York",
-    "notice_type": "Combined Synopsis/Solicitation",
-    "naics": "333998",
-    "solicitation_number": "481342",
-    "deadline": "2026-12-18",
-    "published": "2026-11-25",
-    "contacts": [
-      {
-        "name": "Cassandra (Cassie) Smith",
-        "email": "csmith2@bnl.gov",
-        "phone": "9078883142"
-      }
-    ],
-    "description": "",
-    "url": "https://sam.gov/workspace/contract/opp/ac68fb2f6900490d92aa4cdb9060cf67/view",
-    "score": 6,
-    "recommendation": "PASS",
-    "fit_reason": "Buying signal: solicitation"
-  },
-  {
-    "source": "SAM.gov",
-    "source_id": "ac617d43c259400c863c103cba20dab0",
-    "title": "Y--JELA 325250 335621 - Rehabilitate Cemetery ",
-    "organization": "INTERIOR, DEPARTMENT OF THE.DEPARTMENTAL OFFICES.NATIONAL PARK SERVICE CONTRACTING ACTIVITY",
-    "office": "",
-    "country": "United States",
-    "state": "",
-    "notice_type": "Solicitation",
-    "naics": "237990",
-    "solicitation_number": "140PP027R0004",
-    "deadline": "2026-12-10",
-    "published": "2026-11-25",
-    "contacts": [
-      {
-        "name": "Garcia, Carlos",
-        "email": "carlos_garcia@ios.doi.gov",
-        "phone": "7209006595"
-      }
-    ],
-    "description": "",
-    "url": "https://sam.gov/workspace/contract/opp/ac617d43c259400c863c103cba20dab0/view",
-    "score": 6,
-    "recommendation": "PASS",
-    "fit_reason": "Buying signal: solicitation"
-  },
-  {
-    "source": "SAM.gov",
-    "source_id": "ac524d8a4c8b4c6f98ecf61dce349d13",
-    "title": "ALTIMETER SET,ELECT",
-    "organization": "DEPT OF DEFENSE.DEFENSE LOGISTICS AGENCY.DLA AVIATION.DLA AVIATION PHILADELPHIA.DLA AVIATION AT PHILADELPHIA, PA",
-    "office": "",
-    "country": "United States",
-    "state": "",
-    "notice_type": "Solicitation",
-    "naics": "334511",
-    "solicitation_number": "SPRPA127QXB09",
-    "deadline": "2026-11-30",
-    "published": "2026-11-25",
-    "contacts": [
-      {
-        "name": "Telephone: 2157373832",
-        "email": "MARY.LINDSAY@DLA.MIL",
-        "phone": ""
-      }
-    ],
-    "description": "",
-    "url": "https://sam.gov/workspace/contract/opp/ac524d8a4c8b4c6f98ecf61dce349d13/view",
-    "score": 6,
-    "recommendation": "PASS",
-    "fit_reason": "Buying signal: solicitation"
-  },
-  {
-    "source": "SAM.gov",
-    "source_id": "ac25c56619f44b528e24f15a81ee98b8",
-    "title": "J048--Clinical Lab Bypass Loop System Install",
-    "organization": "VETERANS AFFAIRS, DEPARTMENT OF.VETERANS AFFAIRS, DEPARTMENT OF.246-NETWORK CONTRACTING OFFICE 6 (36C246)",
-    "office": "",
-    "country": "United States",
-    "state": "",
-    "notice_type": "Solicitation",
-    "naics": "238220",
-    "solicitation_number": "36C24627Q0088",
-    "deadline": "2026-12-03",
-    "published": "2026-11-25",
-    "contacts": [
-      {
-        "name": "Cedric  Frasier",
-        "email": "cedric.frasier@va.gov",
-        "phone": ""
-      }
-    ],
-    "description": "",
-    "url": "https://sam.gov/workspace/contract/opp/ac25c56619f44b528e24f15a81ee98b8/view",
-    "score": 6,
-    "recommendation": "PASS",
-    "fit_reason": "Buying signal: solicitation"
-  },
-  {
-    "source": "SAM.gov",
-    "source_id": "abf108639d394296b88f35d58cdef89f",
-    "title": "Navigation-grade Inertial Measurement Unit (IMU) (Brand Name) for Edwards AFB",
-    "organization": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AIR FORCE TEST CENTER.FA9302  AFTC PZZ",
-    "office": "",
-    "country": "United States",
-    "state": "California",
-    "notice_type": "Solicitation",
-    "naics": "334511",
-    "solicitation_number": "FA930227Q0005",
-    "deadline": "2026-12-04",
-    "published": "2026-11-25",
-    "contacts": [
-      {
-        "name": "Terence Vickers",
-        "email": "terence.vickers@us.af.mil",
-        "phone": "6612772232"
-      }
-    ],
-    "description": "",
-    "url": "https://sam.gov/workspace/contract/opp/abf108639d394296b88f35d58cdef89f/view",
-    "score": 6,
-    "recommendation": "PASS",
-    "fit_reason": "Buying signal: solicitation"
-  },
-  {
-    "source": "SAM.gov",
-    "source_id": "abddc301c8ca4ee0b2c841b613fe1a52",
-    "title": "Private Equity and Private Credit Data Services",
-    "organization": "TREASURY, DEPARTMENT OF THE.OFFICE OF THE COMPTROLLER OF THE CURRENCY.OFFICE OF MANAGEMENT / CFO",
+    "source_id": "89cd1baa6d9e432bad2379e941eb9028",
+    "title": "DoW Office of the Assistant Secretary of War for Energy, Installations, and Environment: Acquisition Strategies for Munitions Storage Magazine Repairs and Recapitalization (MILCON and FSRM)",
+    "organization": "DEPT OF DEFENSE",
     "office": "",
     "country": "United States",
     "state": "District of Columbia",
-    "notice_type": "Combined Synopsis/Solicitation",
-    "naics": "519290",
-    "solicitation_number": "2031JW27Q00013",
-    "deadline": "2026-11-30",
-    "published": "2026-11-25",
-    "contacts": [
-      {
-        "name": "Christine Guy",
-        "email": "christine.guy@occ.treas.gov",
-        "phone": "2028156108"
-      },
-      {
-        "name": "Casey Helman",
-        "email": "Casey.Helman@occ.treas.gov",
-        "phone": "2028976069"
-      }
-    ],
-    "description": "",
-    "url": "https://sam.gov/workspace/contract/opp/abddc301c8ca4ee0b2c841b613fe1a52/view",
-    "score": 6,
-    "recommendation": "PASS",
-    "fit_reason": "Buying signal: solicitation"
-  },
-  {
-    "source": "SAM.gov",
-    "source_id": "ab7b7156d95d4d6b9f6125b4e99a0955",
-    "title": "VALVE,NEEDLE",
-    "organization": "DEPT OF DEFENSE.DEPT OF THE NAVY.NAVSUP.NAVSUP WEAPON SYSTEMS SUPPORT.NAVSUP WSS MECHANICSBURG.NAVSUP WEAPON SYSTEMS SUPPORT MECH",
-    "office": "",
-    "country": "United States",
-    "state": "",
-    "notice_type": "Solicitation",
-    "naics": "332919",
-    "solicitation_number": "N0010427QFA26",
-    "deadline": "2026-12-10",
-    "published": "2026-11-25",
-    "contacts": [
-      {
-        "name": "Telephone: 7712290602",
-        "email": "ANDREW.S.WATSON.CIV@US.NAVY.MIL",
-        "phone": ""
-      }
-    ],
-    "description": "",
-    "url": "https://sam.gov/workspace/contract/opp/ab7b7156d95d4d6b9f6125b4e99a0955/view",
-    "score": 6,
-    "recommendation": "PASS",
-    "fit_reason": "Buying signal: solicitation"
-  },
-  {
-    "source": "SAM.gov",
-    "source_id": "8256696f57714c59ab1bfc4cdec45018",
-    "title": "Rochester Barn Roof Replacement",
-    "organization": "AGRICULTURE, DEPARTMENT OF.FOREST SERVICE.USDA-FS, CSA EAST 13",
-    "office": "",
-    "country": "United States",
-    "state": "Vermont",
     "notice_type": "Special Notice",
-    "naics": "238160",
-    "solicitation_number": "12445527Q0013",
-    "deadline": "2026-11-27",
+    "naics": "",
+    "solicitation_number": "EL11232026",
+    "deadline": "2026-12-11",
     "published": "2026-11-27",
     "contacts": [
       {
-        "name": "BOUCHER, PAUL A",
-        "email": "paul.boucher@usda.gov",
+        "name": "Eric Lubeck",
+        "email": "eric.h.lubeck.civ@mail.mil",
         "phone": ""
       }
     ],
     "description": "",
-    "url": "https://sam.gov/workspace/contract/opp/8256696f57714c59ab1bfc4cdec45018/view",
+    "url": "https://sam.gov/workspace/contract/opp/89cd1baa6d9e432bad2379e941eb9028/view",
+    "score": 0,
+    "recommendation": "PASS",
+    "fit_reason": "No strong SWAT/tactical procurement signal detected."
+  },
+  {
+    "source": "SAM.gov",
+    "source_id": "6b5c20dd0c094207b25fe89cc56e5554",
+    "title": "6515--Tucson Edwards Open Heart Consignment",
+    "organization": "VETERANS AFFAIRS, DEPARTMENT OF.VETERANS AFFAIRS, DEPARTMENT OF.262-NETWORK CONTRACT OFFICE 22 (36C262)",
+    "office": "",
+    "country": "United States",
+    "state": "",
+    "notice_type": "Special Notice",
+    "naics": "339112",
+    "solicitation_number": "36C26227D0015",
+    "deadline": "2026-12-07",
+    "published": "2026-11-27",
+    "contacts": [
+      {
+        "name": "Shavon Bogan",
+        "email": "shavon.bogan@va.gov",
+        "phone": "909-346-8814"
+      }
+    ],
+    "description": "",
+    "url": "https://sam.gov/workspace/contract/opp/6b5c20dd0c094207b25fe89cc56e5554/view",
     "score": 0,
     "recommendation": "PASS",
     "fit_reason": "No strong SWAT/tactical procurement signal detected."
@@ -25485,6 +24821,37 @@
     ],
     "description": "",
     "url": "https://sam.gov/workspace/contract/opp/65fa6b1c87b742659e9e76c54d9632b8/view",
+    "score": 0,
+    "recommendation": "PASS",
+    "fit_reason": "No strong SWAT/tactical procurement signal detected."
+  },
+  {
+    "source": "SAM.gov",
+    "source_id": "44812431355e41a4ac8c4f8d3ef28524",
+    "title": "Rubrik Warranty Services",
+    "organization": "DEPT OF DEFENSE.DEPT OF THE NAVY.NAVSUP.NAVSUP OTHER HCA.BUMED.NAVY MEDICINE WEST.NAVAL MEDICAL RESEARCH CENTER",
+    "office": "",
+    "country": "United States",
+    "state": "Maryland",
+    "notice_type": "Special Notice",
+    "naics": "541519",
+    "solicitation_number": "N3239826Q7235",
+    "deadline": "2026-11-30",
+    "published": "2026-11-27",
+    "contacts": [
+      {
+        "name": "Nataki JOHNSON",
+        "email": "nataki.s.johnson.civ@health.mil",
+        "phone": "3013197303"
+      },
+      {
+        "name": "SHAMAI CARTER",
+        "email": "shamai.m.carter.civ@heatlh.mil",
+        "phone": ""
+      }
+    ],
+    "description": "",
+    "url": "https://sam.gov/workspace/contract/opp/44812431355e41a4ac8c4f8d3ef28524/view",
     "score": 0,
     "recommendation": "PASS",
     "fit_reason": "No strong SWAT/tactical procurement signal detected."
@@ -25688,32 +25055,6 @@
   },
   {
     "source": "SAM.gov",
-    "source_id": "c0472cf8d34347e2a8366dfd01d0a1ba",
-    "title": "N0017327Q5310 - High-Performance Underwater Recording System",
-    "organization": "DEPT OF DEFENSE.DEPT OF THE NAVY.ONR.ONR NRL.NAVAL RESEARCH LABORATORY",
-    "office": "",
-    "country": "United States",
-    "state": "District of Columbia",
-    "notice_type": "Special Notice",
-    "naics": "334519",
-    "solicitation_number": "N0017327Q5310",
-    "deadline": "2026-11-28",
-    "published": "2026-11-25",
-    "contacts": [
-      {
-        "name": "Kayrelly Aguirre-Arroba",
-        "email": "kayrelly.aguirre-arroba2.civ@us.navy.mil",
-        "phone": ""
-      }
-    ],
-    "description": "",
-    "url": "https://sam.gov/workspace/contract/opp/c0472cf8d34347e2a8366dfd01d0a1ba/view",
-    "score": 0,
-    "recommendation": "PASS",
-    "fit_reason": "No strong SWAT/tactical procurement signal detected."
-  },
-  {
-    "source": "SAM.gov",
     "source_id": "c02a1258c13c41e4b4c8df72d112c7d8",
     "title": "Intent to Sole Source - Philips RightFit Service Agreement",
     "organization": "DEPT OF DEFENSE.DEFENSE HEALTH AGENCY (DHA).DEFENSE HEALTH AGENCY",
@@ -25739,141 +25080,461 @@
     "fit_reason": "No strong SWAT/tactical procurement signal detected."
   },
   {
-    "source": "SAM.gov",
-    "source_id": "bd9c1d560a784132a773cd18c4ef6851",
-    "title": "Purchase EMD Machining Center for B49 Machine Shop",
-    "organization": "NATIONAL AERONAUTICS AND SPACE ADMINISTRATION.NATIONAL AERONAUTICS AND SPACE ADMINISTRATION.NASA SHARED SERVICES CENTER",
+    "source": "World Bank",
+    "source_id": "WB-483995",
+    "title": "Acquisition de matériels roulants : véhicules d'exploitation Pick up trucks en faveur de la REGIDESO (Lot 1), un (01) véhicule en faveur de la DPT et six (06) véhicules en faveur de la CEP-O (Lot 2)",
+    "organization": "World Bank",
     "office": "",
-    "country": "United States",
+    "country": "Congo, Democratic Republic of",
     "state": "",
-    "notice_type": "Special Notice",
-    "naics": "334519",
-    "solicitation_number": "80NSSC27949707Q",
-    "deadline": "2026-12-01",
-    "published": "2026-11-25",
-    "contacts": [
-      {
-        "name": "Sara Jusino-Terry",
-        "email": "sara.a.jusino-terry@nasa.gov",
-        "phone": ""
-      },
-      {
-        "name": "Karen Artis",
-        "email": "Karen.L.Artis@nasa.gov",
-        "phone": ""
-      }
-    ],
-    "description": "",
-    "url": "https://sam.gov/workspace/contract/opp/bd9c1d560a784132a773cd18c4ef6851/view",
+    "notice_type": "Invitation for Bids",
+    "naics": "",
+    "solicitation_number": "P513301",
+    "deadline": "2027-01-22",
+    "published": "2026-11-26",
+    "contacts": [],
+    "description": "Request for Bids • Goods",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00483995",
     "score": 0,
     "recommendation": "PASS",
     "fit_reason": "No strong SWAT/tactical procurement signal detected."
   },
   {
-    "source": "SAM.gov",
-    "source_id": "ba7c7e48da5640d6a25be66d1dd494d3",
-    "title": "TECHNOLOGY/BUSINESS OPPORTUNITY: Development of a High-Capacity, Acid-Stable Lanmodulin Immobilization Platform for REE Separation",
-    "organization": "ENERGY, DEPARTMENT OF.ENERGY, DEPARTMENT OF.LLNS – DOE CONTRACTOR",
+    "source": "World Bank",
+    "source_id": "WB-484020",
+    "title": "Acquisition des matériels de laboratoire d’analyses physicochimiques et microbiologiques au bénéfice de l’UNIKIN pour le suivi de l'exploitation de la STBV",
+    "organization": "World Bank",
     "office": "",
-    "country": "United States",
-    "state": "California",
-    "notice_type": "Special Notice",
-    "naics": "212290",
-    "solicitation_number": "2026-076",
-    "deadline": "2026-12-25",
-    "published": "2026-11-25",
-    "contacts": [
-      {
-        "name": "Yash Vaishnav",
-        "email": "vaishnav1@llnl.gov",
-        "phone": "9254223538"
-      },
-      {
-        "name": "Charlotte Eng",
-        "email": "eng23@llnl.gov",
-        "phone": "9254221905"
-      }
-    ],
-    "description": "",
-    "url": "https://sam.gov/workspace/contract/opp/ba7c7e48da5640d6a25be66d1dd494d3/view",
-    "score": 0,
-    "recommendation": "PASS",
-    "fit_reason": "No strong SWAT/tactical procurement signal detected."
-  },
-  {
-    "source": "SAM.gov",
-    "source_id": "b43ef3d7cb66437dbab09c6d0ac166a8",
-    "title": "Grounds maintenance services for Riverside National Cemetery. -- S208",
-    "organization": "VETERANS AFFAIRS, DEPARTMENT OF.VETERANS AFFAIRS, DEPARTMENT OF.NATIONAL CEMETERY ADMIN (36C786)",
-    "office": "",
-    "country": "United States",
-    "state": "California",
-    "notice_type": "Special Notice",
-    "naics": "561730",
-    "solicitation_number": "36C78626R501200015",
-    "deadline": "2026-12-09",
-    "published": "2026-11-25",
-    "contacts": [
-      {
-        "name": "Ralph Crum",
-        "email": "ralph.crum@va.gov",
-        "phone": ""
-      }
-    ],
-    "description": "",
-    "url": "https://sam.gov/workspace/contract/opp/b43ef3d7cb66437dbab09c6d0ac166a8/view",
-    "score": 0,
-    "recommendation": "PASS",
-    "fit_reason": "No strong SWAT/tactical procurement signal detected."
-  },
-  {
-    "source": "SAM.gov",
-    "source_id": "afe0198ee1a7471cb5392d8dc6ab54b2",
-    "title": "N0017327Q5308 - DIGITAL BOARD ASSEMBLY",
-    "organization": "DEPT OF DEFENSE.DEPT OF THE NAVY.ONR.ONR NRL.NAVAL RESEARCH LABORATORY",
-    "office": "",
-    "country": "United States",
-    "state": "District of Columbia",
-    "notice_type": "Special Notice",
-    "naics": "334418",
-    "solicitation_number": "N0017327Q5308",
-    "deadline": "2026-11-28",
-    "published": "2026-11-25",
-    "contacts": [
-      {
-        "name": "Kayrelly Aguirre-Arroba",
-        "email": "kayrelly.aguirre-arroba2.civ@us.navy.mil",
-        "phone": ""
-      }
-    ],
-    "description": "",
-    "url": "https://sam.gov/workspace/contract/opp/afe0198ee1a7471cb5392d8dc6ab54b2/view",
-    "score": 0,
-    "recommendation": "PASS",
-    "fit_reason": "No strong SWAT/tactical procurement signal detected."
-  },
-  {
-    "source": "SAM.gov",
-    "source_id": "ae7fee985cc14851b78c19a68e9a5918",
-    "title": "F999--INTENT TO SOLE SOURCE-SHORT TERM-SDS Chemical-Environmental  Consulting Services",
-    "organization": "VETERANS AFFAIRS, DEPARTMENT OF.VETERANS AFFAIRS, DEPARTMENT OF.245-NETWORK CONTRACT OFFICE 5 (36C245)",
-    "office": "",
-    "country": "United States",
+    "country": "Congo, Democratic Republic of",
     "state": "",
-    "notice_type": "Special Notice",
-    "naics": "541620",
-    "solicitation_number": "36C24527Q0087",
+    "notice_type": "Invitation for Bids",
+    "naics": "",
+    "solicitation_number": "P513301",
+    "deadline": "2027-01-22",
+    "published": "2026-11-26",
+    "contacts": [],
+    "description": "Request for Bids • Goods",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00484020",
+    "score": 0,
+    "recommendation": "PASS",
+    "fit_reason": "No strong SWAT/tactical procurement signal detected."
+  },
+  {
+    "source": "World Bank",
+    "source_id": "WB-483885",
+    "title": "Procurement of High-Performance Server Equipment to Support the Implementation of Artificial Intelligence Technologies within the Ministry of Economy and Finance of the Republic of Uzbekistan.",
+    "organization": "World Bank",
+    "office": "",
+    "country": "Uzbekistan",
+    "state": "",
+    "notice_type": "Invitation for Bids",
+    "naics": "",
+    "solicitation_number": "P168180",
+    "deadline": "2027-01-15",
+    "published": "2026-11-26",
+    "contacts": [],
+    "description": "Request for Bids • Goods",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00483885",
+    "score": 0,
+    "recommendation": "PASS",
+    "fit_reason": "No strong SWAT/tactical procurement signal detected."
+  },
+  {
+    "source": "World Bank",
+    "source_id": "WB-484036",
+    "title": "Monitoring and Evaluation Officer",
+    "organization": "World Bank",
+    "office": "",
+    "country": "Gambia, The",
+    "state": "",
+    "notice_type": "Request for Expression of Interest",
+    "naics": "",
+    "solicitation_number": "P504762",
+    "deadline": "2026-12-24",
+    "published": "2026-11-26",
+    "contacts": [],
+    "description": "Individual Consultant Selection • Consultant Services",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00484036",
+    "score": 0,
+    "recommendation": "PASS",
+    "fit_reason": "No strong SWAT/tactical procurement signal detected."
+  },
+  {
+    "source": "World Bank",
+    "source_id": "WB-484041",
+    "title": "Information Technology Officer (IT)",
+    "organization": "World Bank",
+    "office": "",
+    "country": "Gambia, The",
+    "state": "",
+    "notice_type": "Request for Expression of Interest",
+    "naics": "",
+    "solicitation_number": "P504762",
+    "deadline": "2026-12-24",
+    "published": "2026-11-26",
+    "contacts": [],
+    "description": "Individual Consultant Selection • Consultant Services",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00484041",
+    "score": 0,
+    "recommendation": "PASS",
+    "fit_reason": "No strong SWAT/tactical procurement signal detected."
+  },
+  {
+    "source": "World Bank",
+    "source_id": "WB-483616",
+    "title": "Recrutement firme chargée de réaliser le diagnostic des systèmes de collecte des recettes, proposer une solution informatique, élaborer un cahier de charge des équipements indispensables pour la fonctionnalité du système, proposer un plan de renfoncement",
+    "organization": "World Bank",
+    "office": "",
+    "country": "Congo, Democratic Republic of",
+    "state": "",
+    "notice_type": "Request for Expression of Interest",
+    "naics": "",
+    "solicitation_number": "P175834",
+    "deadline": "2026-12-23",
+    "published": "2026-11-26",
+    "contacts": [],
+    "description": "Quality And Cost-Based Selection • Consultant Services",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00483616",
+    "score": 0,
+    "recommendation": "PASS",
+    "fit_reason": "No strong SWAT/tactical procurement signal detected."
+  },
+  {
+    "source": "World Bank",
+    "source_id": "WB-483891",
+    "title": "Aquisição de Equipamentos Informáticos para contabilistas (GPE e DME, GEPE, GPEs e DMEs)",
+    "organization": "World Bank",
+    "office": "",
+    "country": "Angola",
+    "state": "",
+    "notice_type": "Invitation for Bids",
+    "naics": "",
+    "solicitation_number": "P168699",
+    "deadline": "2026-12-22",
+    "published": "2026-11-26",
+    "contacts": [],
+    "description": "Request for Bids • Goods",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00483891",
+    "score": 0,
+    "recommendation": "PASS",
+    "fit_reason": "No strong SWAT/tactical procurement signal detected."
+  },
+  {
+    "source": "World Bank",
+    "source_id": "WB-483933",
+    "title": "Consultancy Services for Advancing Gender Equality in Kenya's Energy Sector",
+    "organization": "World Bank",
+    "office": "",
+    "country": "Kenya",
+    "state": "",
+    "notice_type": "Request for Expression of Interest",
+    "naics": "",
+    "solicitation_number": "P180465",
+    "deadline": "2026-12-22",
+    "published": "2026-11-26",
+    "contacts": [],
+    "description": "Quality And Cost-Based Selection • Consultant Services",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00483933",
+    "score": 0,
+    "recommendation": "PASS",
+    "fit_reason": "No strong SWAT/tactical procurement signal detected."
+  },
+  {
+    "source": "World Bank",
+    "source_id": "WB-483964",
+    "title": "Consultancy Services for Development of National Geothermal Strategy",
+    "organization": "World Bank",
+    "office": "",
+    "country": "Kenya",
+    "state": "",
+    "notice_type": "Request for Expression of Interest",
+    "naics": "",
+    "solicitation_number": "P180465",
+    "deadline": "2026-12-22",
+    "published": "2026-11-26",
+    "contacts": [],
+    "description": "Quality And Cost-Based Selection • Consultant Services",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00483964",
+    "score": 0,
+    "recommendation": "PASS",
+    "fit_reason": "No strong SWAT/tactical procurement signal detected."
+  },
+  {
+    "source": "World Bank",
+    "source_id": "WB-484014",
+    "title": "Contratação de uma empresa especializada para prestação de serviços de apoio logístico á implementação do Programa de Universalização do Bilhete de Identidade (BI) em Angola.",
+    "organization": "World Bank",
+    "office": "",
+    "country": "Angola",
+    "state": "",
+    "notice_type": "Invitation for Bids",
+    "naics": "",
+    "solicitation_number": "P178040",
+    "deadline": "2026-12-22",
+    "published": "2026-11-26",
+    "contacts": [],
+    "description": "Request for Bids • Non-consulting Services",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00484014",
+    "score": 0,
+    "recommendation": "PASS",
+    "fit_reason": "No strong SWAT/tactical procurement signal detected."
+  },
+  {
+    "source": "World Bank",
+    "source_id": "WB-483578",
+    "title": "Project Manager",
+    "organization": "World Bank",
+    "office": "",
+    "country": "Lao People's Democratic Republic",
+    "state": "",
+    "notice_type": "Request for Expression of Interest",
+    "naics": "",
+    "solicitation_number": "P510862",
+    "deadline": "2026-12-18",
+    "published": "2026-11-26",
+    "contacts": [],
+    "description": "Individual Consultant Selection • Consultant Services",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00483578",
+    "score": 0,
+    "recommendation": "PASS",
+    "fit_reason": "No strong SWAT/tactical procurement signal detected."
+  },
+  {
+    "source": "World Bank",
+    "source_id": "WB-483921",
+    "title": "Consultancy Services to support scaling of the Disaster Risk Management Information Management System (DRMIS) in selected districts",
+    "organization": "World Bank",
+    "office": "",
+    "country": "Malawi",
+    "state": "",
+    "notice_type": "Request for Expression of Interest",
+    "naics": "",
+    "solicitation_number": "P181308",
+    "deadline": "2026-12-14",
+    "published": "2026-11-26",
+    "contacts": [],
+    "description": "Least Cost Selection • Consultant Services",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00483921",
+    "score": 0,
+    "recommendation": "PASS",
+    "fit_reason": "No strong SWAT/tactical procurement signal detected."
+  },
+  {
+    "source": "World Bank",
+    "source_id": "WB-483165",
+    "title": "Development of the Draft Statutory Instruments and Guidelines to Enhance the Protection, Management, Collaboration and Economies of Natural Resources in Protected Areas, and National Heritage",
+    "organization": "World Bank",
+    "office": "",
+    "country": "Zambia",
+    "state": "",
+    "notice_type": "Request for Expression of Interest",
+    "naics": "",
+    "solicitation_number": "P180337",
     "deadline": "2026-12-11",
-    "published": "2026-11-25",
-    "contacts": [
-      {
-        "name": "CHARLES WILLIS",
-        "email": "charles.willis@va.gov",
-        "phone": "410-691-1328"
-      }
-    ],
-    "description": "",
-    "url": "https://sam.gov/workspace/contract/opp/ae7fee985cc14851b78c19a68e9a5918/view",
+    "published": "2026-11-26",
+    "contacts": [],
+    "description": "Quality And Cost-Based Selection • Consultant Services",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00483165",
+    "score": 0,
+    "recommendation": "PASS",
+    "fit_reason": "No strong SWAT/tactical procurement signal detected."
+  },
+  {
+    "source": "World Bank",
+    "source_id": "WB-483915",
+    "title": "Relance 2ème Comptable du Projet",
+    "organization": "World Bank",
+    "office": "",
+    "country": "Comoros",
+    "state": "",
+    "notice_type": "Request for Expression of Interest",
+    "naics": "",
+    "solicitation_number": "P173114",
+    "deadline": "2026-12-11",
+    "published": "2026-11-26",
+    "contacts": [],
+    "description": "Individual Consultant Selection • Consultant Services",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00483915",
+    "score": 0,
+    "recommendation": "PASS",
+    "fit_reason": "No strong SWAT/tactical procurement signal detected."
+  },
+  {
+    "source": "World Bank",
+    "source_id": "WB-483977",
+    "title": "Sélection d'une firme pour l'Évaluation de la qualité des actifs (AQR) et appui au redressement de la CADECO",
+    "organization": "World Bank",
+    "office": "",
+    "country": "Congo, Democratic Republic of",
+    "state": "",
+    "notice_type": "Request for Expression of Interest",
+    "naics": "",
+    "solicitation_number": "P178176",
+    "deadline": "2026-12-10",
+    "published": "2026-11-26",
+    "contacts": [],
+    "description": "Quality And Cost-Based Selection • Consultant Services",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00483977",
+    "score": 0,
+    "recommendation": "PASS",
+    "fit_reason": "No strong SWAT/tactical procurement signal detected."
+  },
+  {
+    "source": "World Bank",
+    "source_id": "WB-484067",
+    "title": "CONSULTORÍA PARA AUDITORIA DE ESTADOS FINANCIEROS DE PROPOSITO ESPECIAL DEL PROYECTO ACCESO A FINANCIAMIENTO PRODUCTIVO PARA MICRO, PEQUEÑAS Y MEDIANAS EMPRESAS (MIPYMES) FINANCIADO CON RECURSOS PROVENIENTES DEL CONVENIO DE PRÉSTAMO BIRF 9131-EC Y BIRF 95",
+    "organization": "World Bank",
+    "office": "",
+    "country": "Ecuador",
+    "state": "",
+    "notice_type": "Request for Expression of Interest",
+    "naics": "",
+    "solicitation_number": "P172899",
+    "deadline": "2026-12-10",
+    "published": "2026-11-26",
+    "contacts": [],
+    "description": "Consultant Qualification  Selection • Consultant Services",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00484067",
+    "score": 0,
+    "recommendation": "PASS",
+    "fit_reason": "No strong SWAT/tactical procurement signal detected."
+  },
+  {
+    "source": "World Bank",
+    "source_id": "WB-484021",
+    "title": "Rehabilitation of Governmental Hospitals – Tebnine, Nabatieh, Hasbaya and Marjayoun, South Lebanon",
+    "organization": "World Bank",
+    "office": "",
+    "country": "Lebanon",
+    "state": "",
+    "notice_type": "Invitation for Bids",
+    "naics": "",
+    "solicitation_number": "P509428",
+    "deadline": "2026-12-09",
+    "published": "2026-11-26",
+    "contacts": [],
+    "description": "Request for Bids • Works",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00484021",
+    "score": 0,
+    "recommendation": "PASS",
+    "fit_reason": "No strong SWAT/tactical procurement signal detected."
+  },
+  {
+    "source": "World Bank",
+    "source_id": "WB-483918",
+    "title": "Develop a Fleet Development Plan (FDP) in accordance with IOTC requirements, focusing on optimizing fleet capacity, improving operational efficiency, and ensuring alignment with sustainable fisheries management practices within the Exclusive Economic Zone",
+    "organization": "World Bank",
+    "office": "",
+    "country": "Tanzania",
+    "state": "",
+    "notice_type": "Request for Expression of Interest",
+    "naics": "",
+    "solicitation_number": "P179969",
+    "deadline": "2026-12-07",
+    "published": "2026-11-26",
+    "contacts": [],
+    "description": "Individual Consultant Selection • Consultant Services",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00483918",
+    "score": 0,
+    "recommendation": "PASS",
+    "fit_reason": "No strong SWAT/tactical procurement signal detected."
+  },
+  {
+    "source": "World Bank",
+    "source_id": "WB-484103",
+    "title": "Digital Unit Director 2026",
+    "organization": "World Bank",
+    "office": "",
+    "country": "Marshall Islands",
+    "state": "",
+    "notice_type": "Request for Expression of Interest",
+    "naics": "",
+    "solicitation_number": "P171517",
+    "deadline": "2026-12-04",
+    "published": "2026-11-26",
+    "contacts": [],
+    "description": "Individual Consultant Selection • Consultant Services",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00484103",
+    "score": 0,
+    "recommendation": "PASS",
+    "fit_reason": "No strong SWAT/tactical procurement signal detected."
+  },
+  {
+    "source": "World Bank",
+    "source_id": "WB-483927",
+    "title": "CONSTRUCTION OF SOLAR-POWERED POULTRY FARM ESTATE",
+    "organization": "World Bank",
+    "office": "",
+    "country": "Nigeria",
+    "state": "",
+    "notice_type": "Invitation for Bids",
+    "naics": "",
+    "solicitation_number": "P160865",
+    "deadline": "2026-12-03",
+    "published": "2026-11-26",
+    "contacts": [],
+    "description": "Request for Bids • Works",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00483927",
+    "score": 0,
+    "recommendation": "PASS",
+    "fit_reason": "No strong SWAT/tactical procurement signal detected."
+  },
+  {
+    "source": "World Bank",
+    "source_id": "WB-483946",
+    "title": "Recrutement d’un cabinet pour l’évaluation environnemental et social stratégique (EESS) du secteur des transports au Burundi",
+    "organization": "World Bank",
+    "office": "",
+    "country": "Burundi",
+    "state": "",
+    "notice_type": "Request for Expression of Interest",
+    "naics": "",
+    "solicitation_number": "P172988",
+    "deadline": "2026-12-02",
+    "published": "2026-11-26",
+    "contacts": [],
+    "description": "Quality And Cost-Based Selection • Consultant Services",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00483946",
+    "score": 0,
+    "recommendation": "PASS",
+    "fit_reason": "No strong SWAT/tactical procurement signal detected."
+  },
+  {
+    "source": "World Bank",
+    "source_id": "WB-483952",
+    "title": "Procurement of Cyber Security Solution License",
+    "organization": "World Bank",
+    "office": "",
+    "country": "Bangladesh",
+    "state": "",
+    "notice_type": "Invitation for Bids",
+    "naics": "",
+    "solicitation_number": "P178996",
+    "deadline": "2026-12-01",
+    "published": "2026-11-26",
+    "contacts": [],
+    "description": "Request for Bids • Goods",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00483952",
+    "score": 0,
+    "recommendation": "PASS",
+    "fit_reason": "No strong SWAT/tactical procurement signal detected."
+  },
+  {
+    "source": "World Bank",
+    "source_id": "WB-483944",
+    "title": "Recrutement d'un consultant (Firme) pour la surveillance des travaux de construction de 14 maisons en faveur des Batwa dans la zone d'intervention du projet",
+    "organization": "World Bank",
+    "office": "",
+    "country": "Burundi",
+    "state": "",
+    "notice_type": "Request for Expression of Interest",
+    "naics": "",
+    "solicitation_number": "P172988",
+    "deadline": "2026-11-30",
+    "published": "2026-11-26",
+    "contacts": [],
+    "description": "Consultant Qualification  Selection • Consultant Services",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00483944",
     "score": 0,
     "recommendation": "PASS",
     "fit_reason": "No strong SWAT/tactical procurement signal detected."
@@ -25954,6 +25615,26 @@
     "contacts": [],
     "description": "Request for Bids • Works",
     "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00480877",
+    "score": 0,
+    "recommendation": "PASS",
+    "fit_reason": "No strong SWAT/tactical procurement signal detected."
+  },
+  {
+    "source": "World Bank",
+    "source_id": "WB-483756",
+    "title": "Construction of Agricultural Mechanisation centres under Lots 1,2 &3",
+    "organization": "World Bank",
+    "office": "",
+    "country": "Uganda",
+    "state": "",
+    "notice_type": "Invitation for Bids",
+    "naics": "",
+    "solicitation_number": "P173296",
+    "deadline": "2027-01-13",
+    "published": "2026-11-25",
+    "contacts": [],
+    "description": "Request for Bids • Works",
+    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00483756",
     "score": 0,
     "recommendation": "PASS",
     "fit_reason": "No strong SWAT/tactical procurement signal detected."
@@ -27420,26 +27101,6 @@
   },
   {
     "source": "World Bank",
-    "source_id": "WB-477739",
-    "title": "Selection of Consultant (Firm) to Design, Implement, and Maintain Central Asia Pilot Short-Term Electricity Market",
-    "organization": "World Bank",
-    "office": "",
-    "country": "Central Asia",
-    "state": "",
-    "notice_type": "Request for Expression of Interest",
-    "naics": "",
-    "solicitation_number": "P509488",
-    "deadline": "2026-12-15",
-    "published": "2026-11-24",
-    "contacts": [],
-    "description": "Quality And Cost-Based Selection • Consultant Services",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00477739",
-    "score": 0,
-    "recommendation": "PASS",
-    "fit_reason": "No strong SWAT/tactical procurement signal detected."
-  },
-  {
-    "source": "World Bank",
     "source_id": "WB-480517",
     "title": "Retrofitting and Strengthening/Upgrading of Public School Buildings in Preparation for “The Big One” under IBRD Loan 9251-PH: Philippines Seismic Risk Reduction and Resilience Project (PSRRRP) – Contract Package 12",
     "organization": "World Bank",
@@ -28194,26 +27855,6 @@
     "contacts": [],
     "description": "Individual Consultant Selection • Consultant Services",
     "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00483095",
-    "score": 0,
-    "recommendation": "PASS",
-    "fit_reason": "No strong SWAT/tactical procurement signal detected."
-  },
-  {
-    "source": "World Bank",
-    "source_id": "WB-483205",
-    "title": "Supervisão das Obras do Barreiro e do BRT da Área Hospitalar (Gerenciador)",
-    "organization": "World Bank",
-    "office": "",
-    "country": "Brazil",
-    "state": "",
-    "notice_type": "Request for Expression of Interest",
-    "naics": "",
-    "solicitation_number": "P169134",
-    "deadline": "2026-11-27",
-    "published": "2026-11-23",
-    "contacts": [],
-    "description": "Quality And Cost-Based Selection • Consultant Services",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00483205",
     "score": 0,
     "recommendation": "PASS",
     "fit_reason": "No strong SWAT/tactical procurement signal detected."
@@ -29300,26 +28941,6 @@
   },
   {
     "source": "World Bank",
-    "source_id": "WB-480105",
-    "title": "Hiring of Procurement Assistant for PIU",
-    "organization": "World Bank",
-    "office": "",
-    "country": "Mozambique",
-    "state": "",
-    "notice_type": "Request for Expression of Interest",
-    "naics": "",
-    "solicitation_number": "P173640",
-    "deadline": "2026-11-27",
-    "published": "2026-11-19",
-    "contacts": [],
-    "description": "Individual Consultant Selection • Consultant Services",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00480105",
-    "score": 0,
-    "recommendation": "PASS",
-    "fit_reason": "No strong SWAT/tactical procurement signal detected."
-  },
-  {
-    "source": "World Bank",
     "source_id": "WB-482127",
     "title": "Procurement of Ambulances for Istanbul Health Directorate",
     "organization": "World Bank",
@@ -29774,46 +29395,6 @@
     "contacts": [],
     "description": "Individual Consultant Selection • Consultant Services",
     "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00482485",
-    "score": 0,
-    "recommendation": "PASS",
-    "fit_reason": "No strong SWAT/tactical procurement signal detected."
-  },
-  {
-    "source": "World Bank",
-    "source_id": "WB-482377",
-    "title": "Environmental and Social Management Specialist",
-    "organization": "World Bank",
-    "office": "",
-    "country": "Zambia",
-    "state": "",
-    "notice_type": "Request for Expression of Interest",
-    "naics": "",
-    "solicitation_number": "P512746",
-    "deadline": "2026-11-27",
-    "published": "2026-11-18",
-    "contacts": [],
-    "description": "Individual Consultant Selection • Consultant Services",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00482377",
-    "score": 0,
-    "recommendation": "PASS",
-    "fit_reason": "No strong SWAT/tactical procurement signal detected."
-  },
-  {
-    "source": "World Bank",
-    "source_id": "WB-482511",
-    "title": "Recrutement d’un Consultant assumant la fonction d'Ingénieur Hydro électricien principal au sein de l'Agence pour le Développement et la Promotion du Projet Grand Inga (ADPI) dans le cadre du Programme de Développement Inga 3 (PDI3)",
-    "organization": "World Bank",
-    "office": "",
-    "country": "Congo, Democratic Republic of",
-    "state": "",
-    "notice_type": "Request for Expression of Interest",
-    "naics": "",
-    "solicitation_number": "P506438",
-    "deadline": "2026-11-27",
-    "published": "2026-11-18",
-    "contacts": [],
-    "description": "Individual Consultant Selection • Consultant Services",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00482511",
     "score": 0,
     "recommendation": "PASS",
     "fit_reason": "No strong SWAT/tactical procurement signal detected."
@@ -30540,26 +30121,6 @@
   },
   {
     "source": "World Bank",
-    "source_id": "WB-478272",
-    "title": "Preparation of an Environmental and Social Impact Assessment and Associated Environmental and Social Instruments for the Proposed Hazardous Waste Treatment and Landfill Facility in Georgia",
-    "organization": "World Bank",
-    "office": "",
-    "country": "Georgia",
-    "state": "",
-    "notice_type": "Request for Expression of Interest",
-    "naics": "",
-    "solicitation_number": "P518850",
-    "deadline": "2026-11-27",
-    "published": "2026-11-17",
-    "contacts": [],
-    "description": "Consultant Qualification  Selection • Consultant Services",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00478272",
-    "score": 0,
-    "recommendation": "PASS",
-    "fit_reason": "No strong SWAT/tactical procurement signal detected."
-  },
-  {
-    "source": "World Bank",
     "source_id": "WB-481662",
     "title": "Supply of Transformers and Low Voltage Distribution Boards",
     "organization": "World Bank",
@@ -31120,26 +30681,6 @@
   },
   {
     "source": "World Bank",
-    "source_id": "WB-481784",
-    "title": "Sélection de deux ONG pour la Mise en œuvre des activités de prévention et réponse aux  EAS/HS liés au Projet sur les villes du Lobito",
-    "organization": "World Bank",
-    "office": "",
-    "country": "Congo, Democratic Republic of",
-    "state": "",
-    "notice_type": "Request for Expression of Interest",
-    "naics": "",
-    "solicitation_number": "P178176",
-    "deadline": "2026-11-27",
-    "published": "2026-11-16",
-    "contacts": [],
-    "description": "Consultant Qualification  Selection • Consultant Services",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00481784",
-    "score": 0,
-    "recommendation": "PASS",
-    "fit_reason": "No strong SWAT/tactical procurement signal detected."
-  },
-  {
-    "source": "World Bank",
     "source_id": "WB-481703",
     "title": "SUPPLY AND DELIVERY OF SURVEY EQUIPMENT AND SOFTWARE",
     "organization": "World Bank",
@@ -31234,26 +30775,6 @@
     "contacts": [],
     "description": "Individual Consultant Selection • Consultant Services",
     "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00481647",
-    "score": 0,
-    "recommendation": "PASS",
-    "fit_reason": "No strong SWAT/tactical procurement signal detected."
-  },
-  {
-    "source": "World Bank",
-    "source_id": "WB-481643",
-    "title": "Construction and facilitation of New Administration Block, Fish Processing Building and Small Business Building at Bagamoyo Fish Market in Bagamoyo Districts",
-    "organization": "World Bank",
-    "office": "",
-    "country": "Tanzania",
-    "state": "",
-    "notice_type": "Invitation for Bids",
-    "naics": "",
-    "solicitation_number": "P179969",
-    "deadline": "2026-11-27",
-    "published": "2026-11-15",
-    "contacts": [],
-    "description": "Request for Bids • Works",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00481643",
     "score": 0,
     "recommendation": "PASS",
     "fit_reason": "No strong SWAT/tactical procurement signal detected."
@@ -31980,46 +31501,6 @@
   },
   {
     "source": "World Bank",
-    "source_id": "WB-481056",
-    "title": "Engagement of a Third-Party Validation (TPV) Firm for Verification of Community-Based School Sites Identified by District Education Groups (DEGs)",
-    "organization": "World Bank",
-    "office": "",
-    "country": "Pakistan",
-    "state": "",
-    "notice_type": "Request for Expression of Interest",
-    "naics": "",
-    "solicitation_number": "P507512",
-    "deadline": "2026-11-27",
-    "published": "2026-11-12",
-    "contacts": [],
-    "description": "Consultant Qualification  Selection • Consultant Services",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00481056",
-    "score": 0,
-    "recommendation": "PASS",
-    "fit_reason": "No strong SWAT/tactical procurement signal detected."
-  },
-  {
-    "source": "World Bank",
-    "source_id": "WB-481203",
-    "title": "Temporary LR Assistants (Municipal court in Travnik, Kakanj, Tešanj, Široki Brijeg, Ljubuški, Kalesija, Tuzla, Tomislavgrad, Sanski Most, Sanski Most (Ključ), Zenica, Cazin, Živinice, Velika Kladuša)",
-    "organization": "World Bank",
-    "office": "",
-    "country": "Bosnia and Herzegovina",
-    "state": "",
-    "notice_type": "Request for Expression of Interest",
-    "naics": "",
-    "solicitation_number": "P180409",
-    "deadline": "2026-11-27",
-    "published": "2026-11-12",
-    "contacts": [],
-    "description": "Individual Consultant Selection • Consultant Services",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00481203",
-    "score": 0,
-    "recommendation": "PASS",
-    "fit_reason": "No strong SWAT/tactical procurement signal detected."
-  },
-  {
-    "source": "World Bank",
     "source_id": "WB-480917",
     "title": "ACQUISITION BATEAU: ACQUISITION DE DEUX BATEAUX POUR L'APPUI INSTITUTIONNEL AU MEFVN ET POUR LE SUIVI DE LA MISE EN OEUVRE DU PRACAC DANS LES LOCALITES DE BETOU, LIRANGA, MAKOTIPOKO, IMPFONDO ET MOSSAKA",
     "organization": "World Bank",
@@ -32320,106 +31801,6 @@
   },
   {
     "source": "World Bank",
-    "source_id": "WB-478746",
-    "title": "CONSULTING SERVICES FOR THE ENGAGEMENT OF A GRANT MANAGEMENT COMPANY",
-    "organization": "World Bank",
-    "office": "",
-    "country": "Zambia",
-    "state": "",
-    "notice_type": "Request for Expression of Interest",
-    "naics": "",
-    "solicitation_number": "P180337",
-    "deadline": "2026-11-27",
-    "published": "2026-11-11",
-    "contacts": [],
-    "description": "Quality And Cost-Based Selection • Consultant Services",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00478746",
-    "score": 0,
-    "recommendation": "PASS",
-    "fit_reason": "No strong SWAT/tactical procurement signal detected."
-  },
-  {
-    "source": "World Bank",
-    "source_id": "WB-480832",
-    "title": "Évaluation stratégique environnementale et sociale SESA）",
-    "organization": "World Bank",
-    "office": "",
-    "country": "Gabon",
-    "state": "",
-    "notice_type": "Request for Expression of Interest",
-    "naics": "",
-    "solicitation_number": "P518958",
-    "deadline": "2026-11-27",
-    "published": "2026-11-11",
-    "contacts": [],
-    "description": "Quality And Cost-Based Selection • Consultant Services",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00480832",
-    "score": 0,
-    "recommendation": "PASS",
-    "fit_reason": "No strong SWAT/tactical procurement signal detected."
-  },
-  {
-    "source": "World Bank",
-    "source_id": "WB-480851",
-    "title": "Accounting Specialist to PIU - MaisOp",
-    "organization": "World Bank",
-    "office": "",
-    "country": "Mozambique",
-    "state": "",
-    "notice_type": "Request for Expression of Interest",
-    "naics": "",
-    "solicitation_number": "P178658",
-    "deadline": "2026-11-27",
-    "published": "2026-11-11",
-    "contacts": [],
-    "description": "Individual Consultant Selection • Consultant Services",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00480851",
-    "score": 0,
-    "recommendation": "PASS",
-    "fit_reason": "No strong SWAT/tactical procurement signal detected."
-  },
-  {
-    "source": "World Bank",
-    "source_id": "WB-481022",
-    "title": "Technical Consultant – Business Analyst to support the MoH KR in ensuring digital inter-structural and interagency interactions in the area of medicines circulation on the Electronic Database of Medicines and Medical Devices platform",
-    "organization": "World Bank",
-    "office": "",
-    "country": "Kyrgyz Republic",
-    "state": "",
-    "notice_type": "Request for Expression of Interest",
-    "naics": "",
-    "solicitation_number": "P167598",
-    "deadline": "2026-11-27",
-    "published": "2026-11-11",
-    "contacts": [],
-    "description": "Individual Consultant Selection • Consultant Services",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00481022",
-    "score": 0,
-    "recommendation": "PASS",
-    "fit_reason": "No strong SWAT/tactical procurement signal detected."
-  },
-  {
-    "source": "World Bank",
-    "source_id": "WB-481024",
-    "title": "Information Technology Specialist to support the MoH KR in ensuring digital inter-structural and interagency interactions in the area of medicines circulation on the Electronic Database of Medicines and Medical Devices platform",
-    "organization": "World Bank",
-    "office": "",
-    "country": "Kyrgyz Republic",
-    "state": "",
-    "notice_type": "Request for Expression of Interest",
-    "naics": "",
-    "solicitation_number": "P167598",
-    "deadline": "2026-11-27",
-    "published": "2026-11-11",
-    "contacts": [],
-    "description": "Individual Consultant Selection • Consultant Services",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00481024",
-    "score": 0,
-    "recommendation": "PASS",
-    "fit_reason": "No strong SWAT/tactical procurement signal detected."
-  },
-  {
-    "source": "World Bank",
     "source_id": "WB-480392",
     "title": "Acquisition et installation de radar météorologique bande C à Antalaha",
     "organization": "World Bank",
@@ -32694,166 +32075,6 @@
     "contacts": [],
     "description": "Quality And Cost-Based Selection • Consultant Services",
     "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00480379",
-    "score": 0,
-    "recommendation": "PASS",
-    "fit_reason": "No strong SWAT/tactical procurement signal detected."
-  },
-  {
-    "source": "World Bank",
-    "source_id": "WB-480365",
-    "title": "Sélection d'un Consultant pour le suivi et contrôle des travaux de construction des voiries urbaines et des ouvrages de drainage des eaux pluviales dans la commune de Korhogo",
-    "organization": "World Bank",
-    "office": "",
-    "country": "Cote d'Ivoire",
-    "state": "",
-    "notice_type": "Request for Expression of Interest",
-    "naics": "",
-    "solicitation_number": "P177062",
-    "deadline": "2026-12-01",
-    "published": "2026-11-10",
-    "contacts": [],
-    "description": "Quality And Cost-Based Selection • Consultant Services",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00480365",
-    "score": 0,
-    "recommendation": "PASS",
-    "fit_reason": "No strong SWAT/tactical procurement signal detected."
-  },
-  {
-    "source": "World Bank",
-    "source_id": "WB-480370",
-    "title": "Sélection d'un Consultant pour le suivi et contrôle des travaux de construction des voiries urbaines et des ouvrages de drainage des eaux pluviales dans la commune de Ferkéssedougou",
-    "organization": "World Bank",
-    "office": "",
-    "country": "Cote d'Ivoire",
-    "state": "",
-    "notice_type": "Request for Expression of Interest",
-    "naics": "",
-    "solicitation_number": "P177062",
-    "deadline": "2026-12-01",
-    "published": "2026-11-10",
-    "contacts": [],
-    "description": "Quality And Cost-Based Selection • Consultant Services",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00480370",
-    "score": 0,
-    "recommendation": "PASS",
-    "fit_reason": "No strong SWAT/tactical procurement signal detected."
-  },
-  {
-    "source": "World Bank",
-    "source_id": "WB-480479",
-    "title": "Cross-Functional Strategy and Alignment Expert (Budget Planning)",
-    "organization": "World Bank",
-    "office": "",
-    "country": "Ukraine",
-    "state": "",
-    "notice_type": "Request for Expression of Interest",
-    "naics": "",
-    "solicitation_number": "P504171",
-    "deadline": "2026-12-01",
-    "published": "2026-11-10",
-    "contacts": [],
-    "description": "Individual Consultant Selection • Consultant Services",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00480479",
-    "score": 0,
-    "recommendation": "PASS",
-    "fit_reason": "No strong SWAT/tactical procurement signal detected."
-  },
-  {
-    "source": "World Bank",
-    "source_id": "WB-480574",
-    "title": "Systems Analyst",
-    "organization": "World Bank",
-    "office": "",
-    "country": "Ukraine",
-    "state": "",
-    "notice_type": "Request for Expression of Interest",
-    "naics": "",
-    "solicitation_number": "P504171",
-    "deadline": "2026-12-01",
-    "published": "2026-11-10",
-    "contacts": [],
-    "description": "Individual Consultant Selection • Consultant Services",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00480574",
-    "score": 0,
-    "recommendation": "PASS",
-    "fit_reason": "No strong SWAT/tactical procurement signal detected."
-  },
-  {
-    "source": "World Bank",
-    "source_id": "WB-480129",
-    "title": "Contratação de uma empresa para elaboração da engenharia e padronização dos processos e automação",
-    "organization": "World Bank",
-    "office": "",
-    "country": "Angola",
-    "state": "",
-    "notice_type": "Request for Expression of Interest",
-    "naics": "",
-    "solicitation_number": "P505158",
-    "deadline": "2026-11-30",
-    "published": "2026-11-10",
-    "contacts": [],
-    "description": "Quality And Cost-Based Selection • Consultant Services",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00480129",
-    "score": 0,
-    "recommendation": "PASS",
-    "fit_reason": "No strong SWAT/tactical procurement signal detected."
-  },
-  {
-    "source": "World Bank",
-    "source_id": "WB-480449",
-    "title": "Monitoring and Evaluation Specialist",
-    "organization": "World Bank",
-    "office": "",
-    "country": "Tajikistan",
-    "state": "",
-    "notice_type": "Request for Expression of Interest",
-    "naics": "",
-    "solicitation_number": "P506611",
-    "deadline": "2026-11-30",
-    "published": "2026-11-10",
-    "contacts": [],
-    "description": "Individual Consultant Selection • Consultant Services",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00480449",
-    "score": 0,
-    "recommendation": "PASS",
-    "fit_reason": "No strong SWAT/tactical procurement signal detected."
-  },
-  {
-    "source": "World Bank",
-    "source_id": "WB-479474",
-    "title": "Sélection d'un Consultant pour le suivi et contrôle des travaux de construction des voiries urbaines dans la commune de Tengrela",
-    "organization": "World Bank",
-    "office": "",
-    "country": "Cote d'Ivoire",
-    "state": "",
-    "notice_type": "Request for Expression of Interest",
-    "naics": "",
-    "solicitation_number": "P177062",
-    "deadline": "2026-11-27",
-    "published": "2026-11-10",
-    "contacts": [],
-    "description": "Quality And Cost-Based Selection • Consultant Services",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00479474",
-    "score": 0,
-    "recommendation": "PASS",
-    "fit_reason": "No strong SWAT/tactical procurement signal detected."
-  },
-  {
-    "source": "World Bank",
-    "source_id": "WB-480636",
-    "title": "Recrutement d’un Expert en Marketing International et Communication de Marque Nationale pour l’appui technique à l’ADB",
-    "organization": "World Bank",
-    "office": "",
-    "country": "Burundi",
-    "state": "",
-    "notice_type": "Request for Expression of Interest",
-    "naics": "",
-    "solicitation_number": "P177688",
-    "deadline": "2026-11-27",
-    "published": "2026-11-10",
-    "contacts": [],
-    "description": "Individual Consultant Selection • Consultant Services",
-    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00480636",
     "score": 0,
     "recommendation": "PASS",
     "fit_reason": "No strong SWAT/tactical procurement signal detected."
